@@ -4,7 +4,7 @@
 
 # Tareas Realizadas:
 
-# Importar datos de ventas, productos y clientes desde la base de datos Northwind.
+# Importar datos de ventas, productos y clientes
 SELECT 
     o.OrderID AS 'ID de Venta',
     o.OrderDate AS 'Fecha de Venta',
