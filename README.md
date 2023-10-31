@@ -1,11 +1,9 @@
-# Northwind
-![northwind](https://github.com/portfoliosergiobi/Northwind/assets/148883570/bf1ffd31-37c5-4d1e-b22f-2a11b0c1f2e5)
+                                                                                            # Northwind
 
-Descripcion del proyecto
+# Descripcion del proyecto
 Este proyecto de análisis de ventas utiliza la base de datos Northwind para explorar patrones de compra y tendencias de ventas. Se realizan consultas SQL para calcular ventas totales por producto y región, identificar productos más vendidos, áreas geográficas con mayores ventas y segmentar clientes. También se analiza la rentabilidad de productos y se investigan relaciones entre productos en las compras. Los resultados se presentan en un formato claro y visual, proporcionando insights valiosos sobre el rendimiento de ventas y el comportamiento del cliente en la base de datos Northwind.
-
-
-Resultados y Conclusiones:
+![northwind](https://github.com/portfoliosergiobi/Northwind/assets/148883570/bf1ffd31-37c5-4d1e-b22f-2a11b0c1f2e5)
+# Resultados y Conclusiones:
 Ventas Totales por Producto y Región:
 Se identificaron los productos más vendidos, destacando productos como [Nombre del Producto] y [Nombre del Producto] como líderes en ventas totales.
 En cuanto a regiones, [Nombre de la Región] mostró las mayores ventas totales, indicando una fuerte demanda en esa área geográfica.
