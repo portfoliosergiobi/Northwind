@@ -10,15 +10,15 @@ Ventas Totales por Producto y Región:
 - Se identificaron los productos más vendidos, destacando productos como Côtes de Blaye y Thüringer Rostbratwurst como líderes en ventas totales.
 - En cuanto a la region, Eastern mostró las mayores ventas totales, indicando una fuerte demanda en esa área geográfica.
 
-- Segmentación de Clientes:
-Se realizaron análisis detallados de segmentación de clientes, revelando que clientes como [Nombre de la Empresa Cliente] y [Nombre de la Empresa Cliente] contribuyen significativamente a las ventas totales.
-Este análisis permite focalizar esfuerzos de marketing y ventas en clientes clave para maximizar los ingresos.
+# Segmentación de Clientes:
+- Se realizaron análisis detallados de segmentación de clientes, revelando que clientes como [Nombre de la Empresa Cliente] y [Nombre de la Empresa Cliente] contribuyen significativamente a las ventas totales.
+- Este análisis permite focalizar esfuerzos de marketing y ventas en clientes clave para maximizar los ingresos.
 
-- Análisis de Rentabilidad:
+# Análisis de Rentabilidad:
 Se examinó la rentabilidad de los productos, mostrando que productos como [Nombre del Producto] generan altos ingresos netos debido a márgenes de beneficio saludables.
 Identificar productos rentables es crucial para la toma de decisiones empresariales y puede influir en estrategias de precios y promociones.
 
-- Productos Relacionados:
+# Productos Relacionados:
 Se descubrieron relaciones interesantes entre productos, por ejemplo, [Nombre Producto 1] y [Nombre Producto 2] frecuentemente se compran juntos.
 Esta información puede ser utilizada para estrategias de venta cruzada y para sugerir productos adicionales a los clientes durante el proceso de compra.
 
