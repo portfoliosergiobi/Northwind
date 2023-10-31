@@ -1,0 +1,1536 @@
+Producto 1,Nombre Producto 1,Producto 2,Nombre Producto 2,Frecuencia
+21,Sir Rodney's Scones,61,Sirop d'érable,8
+16,Pavlova,31,Gorgonzola Telino,7
+16,Pavlova,60,Camembert Pierrot,6
+30,Nord-Ost Matjeshering,54,Tourtière,6
+16,Pavlova,62,Tarte au sucre,6
+60,Camembert Pierrot,71,Flotemysost,6
+31,Gorgonzola Telino,72,Mozzarella di Giovanni,6
+59,Raclette Courdavault,76,Lakkalikööri,5
+10,Ikura,77,Original Frankfurter grüne Soße,5
+55,Pâté chinois,62,Tarte au sucre,5
+56,Gnocchi di nonna Alice,65,Louisiana Fiery Hot Pepper Sauce,5
+2,Chang,68,Scottish Longbreads,5
+2,Chang,59,Raclette Courdavault,5
+17,Alice Mutton,33,Geitost,5
+2,Chang,31,Gorgonzola Telino,5
+2,Chang,16,Pavlova,5
+21,Sir Rodney's Scones,51,Manjimup Dried Apples,5
+31,Gorgonzola Telino,51,Manjimup Dried Apples,5
+47,Zaanse koeken,51,Manjimup Dried Apples,4
+28,Rössle Sauerkraut,49,Maxilaku,4
+28,Rössle Sauerkraut,43,Ipoh Coffee,4
+16,Pavlova,46,Spegesild,4
+24,Guaraná Fantástica,36,Inlagd Sill,4
+1,Chai,40,Boston Crab Meat,4
+21,Sir Rodney's Scones,40,Boston Crab Meat,4
+17,Alice Mutton,41,Jack's New England Clam Chowder,4
+7,Uncle Bob's Organic Dried Pears,13,Konbu,4
+1,Chai,21,Sir Rodney's Scones,4
+19,Teatime Chocolate Biscuits,24,Guaraná Fantástica,4
+19,Teatime Chocolate Biscuits,35,Steeleye Stout,4
+16,Pavlova,32,Mascarpone Fabioli,4
+16,Pavlova,59,Raclette Courdavault,4
+47,Zaanse koeken,56,Gnocchi di nonna Alice,4
+20,Sir Rodney's Marmalade,60,Camembert Pierrot,4
+31,Gorgonzola Telino,60,Camembert Pierrot,4
+1,Chai,60,Camembert Pierrot,4
+56,Gnocchi di nonna Alice,59,Raclette Courdavault,4
+10,Ikura,60,Camembert Pierrot,4
+13,Konbu,60,Camembert Pierrot,4
+39,Chartreuse verte,60,Camembert Pierrot,4
+40,Boston Crab Meat,60,Camembert Pierrot,4
+41,Jack's New England Clam Chowder,52,Filo Mix,4
+31,Gorgonzola Telino,55,Pâté chinois,4
+41,Jack's New England Clam Chowder,55,Pâté chinois,4
+17,Alice Mutton,56,Gnocchi di nonna Alice,4
+55,Pâté chinois,70,Outback Lager,4
+1,Chai,71,Flotemysost,4
+19,Teatime Chocolate Biscuits,71,Flotemysost,4
+17,Alice Mutton,62,Tarte au sucre,4
+24,Guaraná Fantástica,64,Wimmers gute Semmelknödel,4
+55,Pâté chinois,64,Wimmers gute Semmelknödel,4
+41,Jack's New England Clam Chowder,65,Louisiana Fiery Hot Pepper Sauce,4
+31,Gorgonzola Telino,76,Lakkalikööri,4
+40,Boston Crab Meat,76,Lakkalikööri,4
+59,Raclette Courdavault,71,Flotemysost,4
+65,Louisiana Fiery Hot Pepper Sauce,71,Flotemysost,4
+7,Uncle Bob's Organic Dried Pears,72,Mozzarella di Giovanni,4
+28,Rössle Sauerkraut,75,Rhönbräu Klosterbier,4
+24,Guaraná Fantástica,75,Rhönbräu Klosterbier,3
+31,Gorgonzola Telino,75,Rhönbräu Klosterbier,3
+39,Chartreuse verte,75,Rhönbräu Klosterbier,3
+40,Boston Crab Meat,75,Rhönbräu Klosterbier,3
+41,Jack's New England Clam Chowder,75,Rhönbräu Klosterbier,3
+43,Ipoh Coffee,75,Rhönbräu Klosterbier,3
+46,Spegesild,75,Rhönbräu Klosterbier,3
+8,Northwoods Cranberry Sauce,75,Rhönbräu Klosterbier,3
+10,Ikura,75,Rhönbräu Klosterbier,3
+16,Pavlova,75,Rhönbräu Klosterbier,3
+13,Konbu,75,Rhönbräu Klosterbier,3
+59,Raclette Courdavault,73,Röd Kaviar,3
+24,Guaraná Fantástica,74,Longlife Tofu,3
+11,Queso Cabrales,72,Mozzarella di Giovanni,3
+56,Gnocchi di nonna Alice,71,Flotemysost,3
+20,Sir Rodney's Marmalade,72,Mozzarella di Giovanni,3
+69,Gudbrandsdalsost,71,Flotemysost,3
+33,Geitost,72,Mozzarella di Giovanni,3
+26,Gumbär Gummibärchen,72,Mozzarella di Giovanni,3
+60,Camembert Pierrot,72,Mozzarella di Giovanni,3
+62,Tarte au sucre,72,Mozzarella di Giovanni,3
+11,Queso Cabrales,76,Lakkalikööri,3
+20,Sir Rodney's Marmalade,76,Lakkalikööri,3
+56,Gnocchi di nonna Alice,75,Rhönbräu Klosterbier,3
+64,Wimmers gute Semmelknödel,75,Rhönbräu Klosterbier,3
+68,Scottish Longbreads,75,Rhönbräu Klosterbier,3
+23,Tunnbröd,77,Original Frankfurter grüne Soße,3
+24,Guaraná Fantástica,77,Original Frankfurter grüne Soße,3
+39,Chartreuse verte,77,Original Frankfurter grüne Soße,3
+41,Jack's New England Clam Chowder,77,Original Frankfurter grüne Soße,3
+56,Gnocchi di nonna Alice,77,Original Frankfurter grüne Soße,3
+59,Raclette Courdavault,77,Original Frankfurter grüne Soße,3
+60,Camembert Pierrot,77,Original Frankfurter grüne Soße,3
+65,Louisiana Fiery Hot Pepper Sauce,77,Original Frankfurter grüne Soße,3
+75,Rhönbräu Klosterbier,77,Original Frankfurter grüne Soße,3
+16,Pavlova,65,Louisiana Fiery Hot Pepper Sauce,3
+46,Spegesild,64,Wimmers gute Semmelknödel,3
+23,Tunnbröd,64,Wimmers gute Semmelknödel,3
+62,Tarte au sucre,64,Wimmers gute Semmelknödel,3
+12,Queso Manchego La Pastora,64,Wimmers gute Semmelknödel,3
+13,Konbu,64,Wimmers gute Semmelknödel,3
+35,Steeleye Stout,64,Wimmers gute Semmelknödel,3
+53,Perth Pasties,61,Sirop d'érable,3
+10,Ikura,62,Tarte au sucre,3
+43,Ipoh Coffee,61,Sirop d'érable,3
+13,Konbu,62,Tarte au sucre,3
+33,Geitost,62,Tarte au sucre,3
+41,Jack's New England Clam Chowder,62,Tarte au sucre,3
+59,Raclette Courdavault,63,Vegie-spread,3
+35,Steeleye Stout,63,Vegie-spread,3
+59,Raclette Courdavault,70,Outback Lager,3
+62,Tarte au sucre,70,Outback Lager,3
+24,Guaraná Fantástica,71,Flotemysost,3
+28,Rössle Sauerkraut,71,Flotemysost,3
+38,Côte de Blaye,71,Flotemysost,3
+43,Ipoh Coffee,71,Flotemysost,3
+19,Teatime Chocolate Biscuits,70,Outback Lager,3
+25,NuNuCa Nuß-Nougat-Creme,70,Outback Lager,3
+53,Perth Pasties,69,Gudbrandsdalsost,3
+13,Konbu,69,Gudbrandsdalsost,3
+2,Chang,70,Outback Lager,3
+35,Steeleye Stout,68,Scottish Longbreads,3
+38,Côte de Blaye,68,Scottish Longbreads,3
+65,Louisiana Fiery Hot Pepper Sauce,68,Scottish Longbreads,3
+7,Uncle Bob's Organic Dried Pears,56,Gnocchi di nonna Alice,3
+10,Ikura,56,Gnocchi di nonna Alice,3
+11,Queso Cabrales,56,Gnocchi di nonna Alice,3
+28,Rössle Sauerkraut,56,Gnocchi di nonna Alice,3
+2,Chang,55,Pâté chinois,3
+7,Uncle Bob's Organic Dried Pears,55,Pâté chinois,3
+21,Sir Rodney's Scones,55,Pâté chinois,3
+19,Teatime Chocolate Biscuits,53,Perth Pasties,3
+30,Nord-Ost Matjeshering,53,Perth Pasties,3
+36,Inlagd Sill,52,Filo Mix,3
+11,Queso Cabrales,54,Tourtière,3
+43,Ipoh Coffee,60,Camembert Pierrot,3
+46,Spegesild,60,Camembert Pierrot,3
+47,Zaanse koeken,60,Camembert Pierrot,3
+55,Pâté chinois,60,Camembert Pierrot,3
+56,Gnocchi di nonna Alice,60,Camembert Pierrot,3
+30,Nord-Ost Matjeshering,60,Camembert Pierrot,3
+2,Chang,61,Sirop d'érable,3
+57,Ravioli Angelo,59,Raclette Courdavault,3
+7,Uncle Bob's Organic Dried Pears,60,Camembert Pierrot,3
+8,Northwoods Cranberry Sauce,60,Camembert Pierrot,3
+2,Chang,60,Camembert Pierrot,3
+33,Geitost,60,Camembert Pierrot,3
+24,Guaraná Fantástica,60,Camembert Pierrot,3
+19,Teatime Chocolate Biscuits,60,Camembert Pierrot,3
+35,Steeleye Stout,57,Ravioli Angelo,3
+24,Guaraná Fantástica,57,Ravioli Angelo,3
+30,Nord-Ost Matjeshering,55,Pâté chinois,3
+13,Konbu,59,Raclette Courdavault,3
+24,Guaraná Fantástica,59,Raclette Courdavault,3
+36,Inlagd Sill,59,Raclette Courdavault,3
+44,Gula Malacca,59,Raclette Courdavault,3
+2,Chang,32,Mascarpone Fabioli,3
+28,Rössle Sauerkraut,34,Sasquatch Ale,3
+26,Gumbär Gummibärchen,35,Steeleye Stout,3
+16,Pavlova,35,Steeleye Stout,3
+3,Aniseed Syrup,26,Gumbär Gummibärchen,3
+10,Ikura,28,Rössle Sauerkraut,3
+24,Guaraná Fantástica,30,Nord-Ost Matjeshering,3
+29,Thüringer Rostbratwurst,30,Nord-Ost Matjeshering,3
+8,Northwoods Cranberry Sauce,30,Nord-Ost Matjeshering,3
+21,Sir Rodney's Scones,28,Rössle Sauerkraut,3
+1,Chai,29,Thüringer Rostbratwurst,3
+2,Chang,29,Thüringer Rostbratwurst,3
+5,Chef Anton's Gumbo Mix,29,Thüringer Rostbratwurst,3
+14,Tofu,21,Sir Rodney's Scones,3
+17,Alice Mutton,21,Sir Rodney's Scones,3
+14,Tofu,19,Teatime Chocolate Biscuits,3
+19,Teatime Chocolate Biscuits,21,Sir Rodney's Scones,3
+1,Chai,23,Tunnbröd,3
+12,Queso Manchego La Pastora,24,Guaraná Fantástica,3
+10,Ikura,13,Konbu,3
+1,Chai,13,Konbu,3
+6,Grandma's Boysenberry Spread,14,Tofu,3
+11,Queso Cabrales,16,Pavlova,3
+12,Queso Manchego La Pastora,16,Pavlova,3
+4,Chef Anton's Cajun Seasoning,8,Northwoods Cranberry Sauce,3
+34,Sasquatch Ale,41,Jack's New England Clam Chowder,3
+24,Guaraná Fantástica,40,Boston Crab Meat,3
+30,Nord-Ost Matjeshering,40,Boston Crab Meat,3
+33,Geitost,40,Boston Crab Meat,3
+2,Chang,41,Jack's New England Clam Chowder,3
+18,Carnarvon Tigers,42,Singaporean Hokkien Fried Mee,3
+35,Steeleye Stout,42,Singaporean Hokkien Fried Mee,3
+7,Uncle Bob's Organic Dried Pears,43,Ipoh Coffee,3
+17,Alice Mutton,43,Ipoh Coffee,3
+25,NuNuCa Nuß-Nougat-Creme,39,Chartreuse verte,3
+2,Chang,36,Inlagd Sill,3
+16,Pavlova,36,Inlagd Sill,3
+18,Carnarvon Tigers,36,Inlagd Sill,3
+31,Gorgonzola Telino,45,Rogede sild,3
+2,Chang,46,Spegesild,3
+7,Uncle Bob's Organic Dried Pears,46,Spegesild,3
+42,Singaporean Hokkien Fried Mee,43,Ipoh Coffee,3
+29,Thüringer Rostbratwurst,49,Maxilaku,3
+35,Steeleye Stout,49,Maxilaku,3
+19,Teatime Chocolate Biscuits,49,Maxilaku,3
+40,Boston Crab Meat,47,Zaanse koeken,3
+24,Guaraná Fantástica,51,Manjimup Dried Apples,3
+25,NuNuCa Nuß-Nougat-Creme,51,Manjimup Dried Apples,2
+35,Steeleye Stout,51,Manjimup Dried Apples,2
+39,Chartreuse verte,51,Manjimup Dried Apples,2
+40,Boston Crab Meat,51,Manjimup Dried Apples,2
+41,Jack's New England Clam Chowder,51,Manjimup Dried Apples,2
+42,Singaporean Hokkien Fried Mee,51,Manjimup Dried Apples,2
+44,Gula Malacca,51,Manjimup Dried Apples,2
+45,Rogede sild,51,Manjimup Dried Apples,2
+7,Uncle Bob's Organic Dried Pears,52,Filo Mix,2
+42,Singaporean Hokkien Fried Mee,49,Maxilaku,2
+2,Chang,51,Manjimup Dried Apples,2
+11,Queso Cabrales,51,Manjimup Dried Apples,2
+14,Tofu,51,Manjimup Dried Apples,2
+18,Carnarvon Tigers,51,Manjimup Dried Apples,2
+41,Jack's New England Clam Chowder,47,Zaanse koeken,2
+46,Spegesild,47,Zaanse koeken,2
+2,Chang,47,Zaanse koeken,2
+17,Alice Mutton,47,Zaanse koeken,2
+19,Teatime Chocolate Biscuits,47,Zaanse koeken,2
+21,Sir Rodney's Scones,49,Maxilaku,2
+39,Chartreuse verte,47,Zaanse koeken,2
+26,Gumbär Gummibärchen,49,Maxilaku,2
+43,Ipoh Coffee,48,Chocolade,2
+10,Ikura,49,Maxilaku,2
+1,Chai,44,Gula Malacca,2
+30,Nord-Ost Matjeshering,43,Ipoh Coffee,2
+13,Konbu,44,Gula Malacca,2
+21,Sir Rodney's Scones,44,Gula Malacca,2
+28,Rössle Sauerkraut,44,Gula Malacca,2
+29,Thüringer Rostbratwurst,44,Gula Malacca,2
+16,Pavlova,44,Gula Malacca,2
+38,Côte de Blaye,44,Gula Malacca,2
+41,Jack's New England Clam Chowder,44,Gula Malacca,2
+41,Jack's New England Clam Chowder,43,Ipoh Coffee,2
+42,Singaporean Hokkien Fried Mee,45,Rogede sild,2
+10,Ikura,46,Spegesild,2
+13,Konbu,46,Spegesild,2
+22,Gustaf's Knäckebröd,46,Spegesild,2
+23,Tunnbröd,46,Spegesild,2
+32,Mascarpone Fabioli,46,Spegesild,2
+35,Steeleye Stout,46,Spegesild,2
+39,Chartreuse verte,46,Spegesild,2
+41,Jack's New England Clam Chowder,46,Spegesild,2
+31,Gorgonzola Telino,36,Inlagd Sill,2
+24,Guaraná Fantástica,35,Steeleye Stout,2
+1,Chai,36,Inlagd Sill,2
+29,Thüringer Rostbratwurst,36,Inlagd Sill,2
+11,Queso Cabrales,38,Côte de Blaye,2
+19,Teatime Chocolate Biscuits,38,Côte de Blaye,2
+20,Sir Rodney's Marmalade,38,Côte de Blaye,2
+24,Guaraná Fantástica,38,Côte de Blaye,2
+26,Gumbär Gummibärchen,38,Côte de Blaye,2
+28,Rössle Sauerkraut,39,Chartreuse verte,2
+23,Tunnbröd,40,Boston Crab Meat,2
+16,Pavlova,40,Boston Crab Meat,2
+17,Alice Mutton,40,Boston Crab Meat,2
+8,Northwoods Cranberry Sauce,40,Boston Crab Meat,2
+35,Steeleye Stout,38,Côte de Blaye,2
+3,Aniseed Syrup,39,Chartreuse verte,2
+4,Chef Anton's Cajun Seasoning,39,Chartreuse verte,2
+6,Grandma's Boysenberry Spread,39,Chartreuse verte,2
+13,Konbu,39,Chartreuse verte,2
+10,Ikura,39,Chartreuse verte,2
+21,Sir Rodney's Scones,39,Chartreuse verte,2
+18,Carnarvon Tigers,43,Ipoh Coffee,2
+1,Chai,43,Ipoh Coffee,2
+4,Chef Anton's Cajun Seasoning,43,Ipoh Coffee,2
+31,Gorgonzola Telino,42,Singaporean Hokkien Fried Mee,2
+16,Pavlova,43,Ipoh Coffee,2
+40,Boston Crab Meat,42,Singaporean Hokkien Fried Mee,2
+13,Konbu,42,Singaporean Hokkien Fried Mee,2
+14,Tofu,42,Singaporean Hokkien Fried Mee,2
+16,Pavlova,42,Singaporean Hokkien Fried Mee,2
+19,Teatime Chocolate Biscuits,42,Singaporean Hokkien Fried Mee,2
+23,Tunnbröd,42,Singaporean Hokkien Fried Mee,2
+20,Sir Rodney's Marmalade,41,Jack's New England Clam Chowder,2
+23,Tunnbröd,41,Jack's New England Clam Chowder,2
+26,Gumbär Gummibärchen,41,Jack's New England Clam Chowder,2
+29,Thüringer Rostbratwurst,41,Jack's New England Clam Chowder,2
+32,Mascarpone Fabioli,41,Jack's New England Clam Chowder,2
+33,Geitost,41,Jack's New England Clam Chowder,2
+8,Northwoods Cranberry Sauce,42,Singaporean Hokkien Fried Mee,2
+36,Inlagd Sill,40,Boston Crab Meat,2
+6,Grandma's Boysenberry Spread,41,Jack's New England Clam Chowder,2
+7,Uncle Bob's Organic Dried Pears,41,Jack's New England Clam Chowder,2
+10,Ikura,41,Jack's New England Clam Chowder,2
+31,Gorgonzola Telino,40,Boston Crab Meat,2
+25,NuNuCa Nuß-Nougat-Creme,40,Boston Crab Meat,2
+26,Gumbär Gummibärchen,40,Boston Crab Meat,2
+28,Rössle Sauerkraut,40,Boston Crab Meat,2
+35,Steeleye Stout,41,Jack's New England Clam Chowder,2
+18,Carnarvon Tigers,41,Jack's New England Clam Chowder,2
+39,Chartreuse verte,40,Boston Crab Meat,2
+16,Pavlova,41,Jack's New England Clam Chowder,2
+12,Queso Manchego La Pastora,41,Jack's New England Clam Chowder,2
+13,Konbu,41,Jack's New England Clam Chowder,2
+14,Tofu,41,Jack's New England Clam Chowder,2
+2,Chang,8,Northwoods Cranberry Sauce,2
+4,Chef Anton's Cajun Seasoning,6,Grandma's Boysenberry Spread,2
+2,Chang,7,Uncle Bob's Organic Dried Pears,2
+3,Aniseed Syrup,7,Uncle Bob's Organic Dried Pears,2
+4,Chef Anton's Cajun Seasoning,7,Uncle Bob's Organic Dried Pears,2
+5,Chef Anton's Gumbo Mix,7,Uncle Bob's Organic Dried Pears,2
+1,Chai,2,Chang,2
+2,Chang,3,Aniseed Syrup,2
+2,Chang,5,Chef Anton's Gumbo Mix,2
+1,Chai,10,Ikura,2
+6,Grandma's Boysenberry Spread,10,Ikura,2
+2,Chang,12,Queso Manchego La Pastora,2
+7,Uncle Bob's Organic Dried Pears,8,Northwoods Cranberry Sauce,2
+7,Uncle Bob's Organic Dried Pears,12,Queso Manchego La Pastora,2
+8,Northwoods Cranberry Sauce,12,Queso Manchego La Pastora,2
+6,Grandma's Boysenberry Spread,17,Alice Mutton,2
+13,Konbu,14,Tofu,2
+6,Grandma's Boysenberry Spread,16,Pavlova,2
+7,Uncle Bob's Organic Dried Pears,16,Pavlova,2
+12,Queso Manchego La Pastora,13,Konbu,2
+2,Chang,14,Tofu,2
+2,Chang,13,Konbu,2
+8,Northwoods Cranberry Sauce,13,Konbu,2
+13,Konbu,24,Guaraná Fantástica,2
+14,Tofu,24,Guaraná Fantástica,2
+16,Pavlova,24,Guaraná Fantástica,2
+2,Chang,24,Guaraná Fantástica,2
+4,Chef Anton's Cajun Seasoning,24,Guaraná Fantástica,2
+7,Uncle Bob's Organic Dried Pears,24,Guaraná Fantástica,2
+8,Northwoods Cranberry Sauce,24,Guaraná Fantástica,2
+6,Grandma's Boysenberry Spread,13,Konbu,2
+21,Sir Rodney's Scones,22,Gustaf's Knäckebröd,2
+12,Queso Manchego La Pastora,23,Tunnbröd,2
+13,Konbu,23,Tunnbröd,2
+16,Pavlova,23,Tunnbröd,2
+18,Carnarvon Tigers,23,Tunnbröd,2
+19,Teatime Chocolate Biscuits,23,Tunnbröd,2
+16,Pavlova,17,Alice Mutton,2
+1,Chai,18,Carnarvon Tigers,2
+16,Pavlova,18,Carnarvon Tigers,2
+1,Chai,17,Alice Mutton,2
+2,Chang,17,Alice Mutton,2
+2,Chang,20,Sir Rodney's Marmalade,2
+8,Northwoods Cranberry Sauce,29,Thüringer Rostbratwurst,2
+11,Queso Cabrales,29,Thüringer Rostbratwurst,2
+17,Alice Mutton,29,Thüringer Rostbratwurst,2
+18,Carnarvon Tigers,29,Thüringer Rostbratwurst,2
+24,Guaraná Fantástica,29,Thüringer Rostbratwurst,2
+28,Rössle Sauerkraut,29,Thüringer Rostbratwurst,2
+2,Chang,30,Nord-Ost Matjeshering,2
+1,Chai,31,Gorgonzola Telino,2
+7,Uncle Bob's Organic Dried Pears,31,Gorgonzola Telino,2
+10,Ikura,31,Gorgonzola Telino,2
+24,Guaraná Fantástica,25,NuNuCa Nuß-Nougat-Creme,2
+2,Chang,26,Gumbär Gummibärchen,2
+14,Tofu,28,Rössle Sauerkraut,2
+17,Alice Mutton,28,Rössle Sauerkraut,2
+7,Uncle Bob's Organic Dried Pears,27,Schoggi Schokolade,2
+10,Ikura,26,Gumbär Gummibärchen,2
+17,Alice Mutton,26,Gumbär Gummibärchen,2
+19,Teatime Chocolate Biscuits,26,Gumbär Gummibärchen,2
+21,Sir Rodney's Scones,24,Guaraná Fantástica,2
+22,Gustaf's Knäckebröd,24,Guaraná Fantástica,2
+2,Chang,25,NuNuCa Nuß-Nougat-Creme,2
+13,Konbu,25,NuNuCa Nuß-Nougat-Creme,2
+31,Gorgonzola Telino,35,Steeleye Stout,2
+28,Rössle Sauerkraut,35,Steeleye Stout,2
+21,Sir Rodney's Scones,35,Steeleye Stout,2
+22,Gustaf's Knäckebröd,35,Steeleye Stout,2
+18,Carnarvon Tigers,33,Geitost,2
+21,Sir Rodney's Scones,33,Geitost,2
+26,Gumbär Gummibärchen,33,Geitost,2
+16,Pavlova,34,Sasquatch Ale,2
+17,Alice Mutton,34,Sasquatch Ale,2
+19,Teatime Chocolate Biscuits,34,Sasquatch Ale,2
+31,Gorgonzola Telino,33,Geitost,2
+16,Pavlova,33,Geitost,2
+24,Guaraná Fantástica,34,Sasquatch Ale,2
+17,Alice Mutton,31,Gorgonzola Telino,2
+12,Queso Manchego La Pastora,31,Gorgonzola Telino,2
+13,Konbu,31,Gorgonzola Telino,2
+14,Tofu,31,Gorgonzola Telino,2
+20,Sir Rodney's Marmalade,31,Gorgonzola Telino,2
+22,Gustaf's Knäckebröd,31,Gorgonzola Telino,2
+24,Guaraná Fantástica,31,Gorgonzola Telino,2
+18,Carnarvon Tigers,32,Mascarpone Fabioli,2
+12,Queso Manchego La Pastora,32,Mascarpone Fabioli,2
+12,Queso Manchego La Pastora,33,Geitost,2
+31,Gorgonzola Telino,32,Mascarpone Fabioli,2
+38,Côte de Blaye,59,Raclette Courdavault,2
+40,Boston Crab Meat,59,Raclette Courdavault,2
+25,NuNuCa Nuß-Nougat-Creme,59,Raclette Courdavault,2
+29,Thüringer Rostbratwurst,59,Raclette Courdavault,2
+31,Gorgonzola Telino,59,Raclette Courdavault,2
+33,Geitost,59,Raclette Courdavault,2
+17,Alice Mutton,59,Raclette Courdavault,2
+35,Steeleye Stout,58,Escargots de Bourgogne,2
+22,Gustaf's Knäckebröd,57,Ravioli Angelo,2
+31,Gorgonzola Telino,58,Escargots de Bourgogne,2
+25,NuNuCa Nuß-Nougat-Creme,57,Ravioli Angelo,2
+28,Rössle Sauerkraut,57,Ravioli Angelo,2
+2,Chang,58,Escargots de Bourgogne,2
+4,Chef Anton's Cajun Seasoning,58,Escargots de Bourgogne,2
+50,Valkoinen suklaa,56,Gnocchi di nonna Alice,2
+51,Manjimup Dried Apples,56,Gnocchi di nonna Alice,2
+11,Queso Cabrales,57,Ravioli Angelo,2
+13,Konbu,57,Ravioli Angelo,2
+19,Teatime Chocolate Biscuits,57,Ravioli Angelo,2
+11,Queso Cabrales,59,Raclette Courdavault,2
+17,Alice Mutton,60,Camembert Pierrot,2
+21,Sir Rodney's Scones,60,Camembert Pierrot,2
+22,Gustaf's Knäckebröd,60,Camembert Pierrot,2
+27,Schoggi Schokolade,60,Camembert Pierrot,2
+3,Aniseed Syrup,60,Camembert Pierrot,2
+4,Chef Anton's Cajun Seasoning,60,Camembert Pierrot,2
+6,Grandma's Boysenberry Spread,60,Camembert Pierrot,2
+51,Manjimup Dried Apples,59,Raclette Courdavault,2
+14,Tofu,60,Camembert Pierrot,2
+15,Genen Shouyu,60,Camembert Pierrot,2
+12,Queso Manchego La Pastora,60,Camembert Pierrot,2
+45,Rogede sild,60,Camembert Pierrot,2
+17,Alice Mutton,61,Sirop d'érable,2
+19,Teatime Chocolate Biscuits,61,Sirop d'érable,2
+53,Perth Pasties,60,Camembert Pierrot,2
+41,Jack's New England Clam Chowder,61,Sirop d'érable,2
+49,Maxilaku,60,Camembert Pierrot,2
+51,Manjimup Dried Apples,60,Camembert Pierrot,2
+36,Inlagd Sill,60,Camembert Pierrot,2
+41,Jack's New England Clam Chowder,60,Camembert Pierrot,2
+24,Guaraná Fantástica,54,Tourtière,2
+33,Geitost,54,Tourtière,2
+26,Gumbär Gummibärchen,54,Tourtière,2
+39,Chartreuse verte,54,Tourtière,2
+42,Singaporean Hokkien Fried Mee,54,Tourtière,2
+49,Maxilaku,54,Tourtière,2
+51,Manjimup Dried Apples,54,Tourtière,2
+53,Perth Pasties,54,Tourtière,2
+45,Rogede sild,53,Perth Pasties,2
+52,Filo Mix,53,Perth Pasties,2
+41,Jack's New England Clam Chowder,53,Perth Pasties,2
+17,Alice Mutton,53,Perth Pasties,2
+10,Ikura,54,Tourtière,2
+14,Tofu,54,Tourtière,2
+32,Mascarpone Fabioli,52,Filo Mix,2
+40,Boston Crab Meat,52,Filo Mix,2
+24,Guaraná Fantástica,52,Filo Mix,2
+10,Ikura,52,Filo Mix,2
+14,Tofu,52,Filo Mix,2
+20,Sir Rodney's Marmalade,52,Filo Mix,2
+26,Gumbär Gummibärchen,53,Perth Pasties,2
+7,Uncle Bob's Organic Dried Pears,53,Perth Pasties,2
+46,Spegesild,52,Filo Mix,2
+24,Guaraná Fantástica,55,Pâté chinois,2
+13,Konbu,55,Pâté chinois,2
+17,Alice Mutton,55,Pâté chinois,2
+10,Ikura,55,Pâté chinois,2
+3,Aniseed Syrup,55,Pâté chinois,2
+4,Chef Anton's Cajun Seasoning,55,Pâté chinois,2
+35,Steeleye Stout,55,Pâté chinois,2
+51,Manjimup Dried Apples,55,Pâté chinois,2
+52,Filo Mix,55,Pâté chinois,2
+19,Teatime Chocolate Biscuits,56,Gnocchi di nonna Alice,2
+30,Nord-Ost Matjeshering,56,Gnocchi di nonna Alice,2
+38,Côte de Blaye,56,Gnocchi di nonna Alice,2
+40,Boston Crab Meat,56,Gnocchi di nonna Alice,2
+43,Ipoh Coffee,56,Gnocchi di nonna Alice,2
+45,Rogede sild,56,Gnocchi di nonna Alice,2
+46,Spegesild,56,Gnocchi di nonna Alice,2
+13,Konbu,56,Gnocchi di nonna Alice,2
+46,Spegesild,55,Pâté chinois,2
+21,Sir Rodney's Scones,56,Gnocchi di nonna Alice,2
+59,Raclette Courdavault,68,Scottish Longbreads,2
+60,Camembert Pierrot,68,Scottish Longbreads,2
+62,Tarte au sucre,68,Scottish Longbreads,2
+41,Jack's New England Clam Chowder,68,Scottish Longbreads,2
+54,Tourtière,68,Scottish Longbreads,2
+55,Pâté chinois,68,Scottish Longbreads,2
+1,Chai,68,Scottish Longbreads,2
+11,Queso Cabrales,69,Gudbrandsdalsost,2
+18,Carnarvon Tigers,69,Gudbrandsdalsost,2
+31,Gorgonzola Telino,69,Gudbrandsdalsost,2
+42,Singaporean Hokkien Fried Mee,69,Gudbrandsdalsost,2
+62,Tarte au sucre,65,Louisiana Fiery Hot Pepper Sauce,2
+57,Ravioli Angelo,65,Louisiana Fiery Hot Pepper Sauce,2
+14,Tofu,65,Louisiana Fiery Hot Pepper Sauce,2
+55,Pâté chinois,65,Louisiana Fiery Hot Pepper Sauce,2
+6,Grandma's Boysenberry Spread,68,Scottish Longbreads,2
+7,Uncle Bob's Organic Dried Pears,68,Scottish Longbreads,2
+11,Queso Cabrales,68,Scottish Longbreads,2
+18,Carnarvon Tigers,68,Scottish Longbreads,2
+23,Tunnbröd,68,Scottish Longbreads,2
+31,Gorgonzola Telino,68,Scottish Longbreads,2
+31,Gorgonzola Telino,66,Louisiana Hot Spiced Okra,2
+3,Aniseed Syrup,70,Outback Lager,2
+7,Uncle Bob's Organic Dried Pears,70,Outback Lager,2
+11,Queso Cabrales,70,Outback Lager,2
+13,Konbu,70,Outback Lager,2
+17,Alice Mutton,70,Outback Lager,2
+54,Tourtière,69,Gudbrandsdalsost,2
+55,Pâté chinois,69,Gudbrandsdalsost,2
+60,Camembert Pierrot,69,Gudbrandsdalsost,2
+23,Tunnbröd,70,Outback Lager,2
+41,Jack's New England Clam Chowder,70,Outback Lager,2
+52,Filo Mix,70,Outback Lager,2
+53,Perth Pasties,70,Outback Lager,2
+26,Gumbär Gummibärchen,71,Flotemysost,2
+33,Geitost,71,Flotemysost,2
+34,Sasquatch Ale,71,Flotemysost,2
+68,Scottish Longbreads,69,Gudbrandsdalsost,2
+69,Gudbrandsdalsost,70,Outback Lager,2
+57,Ravioli Angelo,70,Outback Lager,2
+13,Konbu,71,Flotemysost,2
+10,Ikura,71,Flotemysost,2
+31,Gorgonzola Telino,63,Vegie-spread,2
+56,Gnocchi di nonna Alice,63,Vegie-spread,2
+16,Pavlova,64,Wimmers gute Semmelknödel,2
+18,Carnarvon Tigers,64,Wimmers gute Semmelknödel,2
+1,Chai,64,Wimmers gute Semmelknödel,2
+2,Chang,64,Wimmers gute Semmelknödel,2
+3,Aniseed Syrup,64,Wimmers gute Semmelknödel,2
+52,Filo Mix,62,Tarte au sucre,2
+58,Escargots de Bourgogne,62,Tarte au sucre,2
+59,Raclette Courdavault,62,Tarte au sucre,2
+18,Carnarvon Tigers,63,Vegie-spread,2
+24,Guaraná Fantástica,63,Vegie-spread,2
+41,Jack's New England Clam Chowder,63,Vegie-spread,2
+35,Steeleye Stout,62,Tarte au sucre,2
+36,Inlagd Sill,62,Tarte au sucre,2
+37,Gravad lax,62,Tarte au sucre,2
+38,Côte de Blaye,62,Tarte au sucre,2
+40,Boston Crab Meat,62,Tarte au sucre,2
+30,Nord-Ost Matjeshering,62,Tarte au sucre,2
+7,Uncle Bob's Organic Dried Pears,62,Tarte au sucre,2
+26,Gumbär Gummibärchen,62,Tarte au sucre,2
+44,Gula Malacca,61,Sirop d'érable,2
+1,Chai,62,Tarte au sucre,2
+2,Chang,62,Tarte au sucre,2
+4,Chef Anton's Cajun Seasoning,62,Tarte au sucre,2
+12,Queso Manchego La Pastora,62,Tarte au sucre,2
+32,Mascarpone Fabioli,64,Wimmers gute Semmelknödel,2
+41,Jack's New England Clam Chowder,64,Wimmers gute Semmelknödel,2
+21,Sir Rodney's Scones,64,Wimmers gute Semmelknödel,2
+44,Gula Malacca,64,Wimmers gute Semmelknödel,2
+59,Raclette Courdavault,64,Wimmers gute Semmelknödel,2
+60,Camembert Pierrot,64,Wimmers gute Semmelknödel,2
+56,Gnocchi di nonna Alice,64,Wimmers gute Semmelknödel,2
+57,Ravioli Angelo,64,Wimmers gute Semmelknödel,2
+24,Guaraná Fantástica,65,Louisiana Fiery Hot Pepper Sauce,2
+29,Thüringer Rostbratwurst,65,Louisiana Fiery Hot Pepper Sauce,2
+31,Gorgonzola Telino,65,Louisiana Fiery Hot Pepper Sauce,2
+38,Côte de Blaye,65,Louisiana Fiery Hot Pepper Sauce,2
+40,Boston Crab Meat,65,Louisiana Fiery Hot Pepper Sauce,2
+64,Wimmers gute Semmelknödel,65,Louisiana Fiery Hot Pepper Sauce,2
+76,Lakkalikööri,77,Original Frankfurter grüne Soße,2
+55,Pâté chinois,77,Original Frankfurter grüne Soße,2
+64,Wimmers gute Semmelknödel,77,Original Frankfurter grüne Soße,2
+68,Scottish Longbreads,77,Original Frankfurter grüne Soße,2
+70,Outback Lager,77,Original Frankfurter grüne Soße,2
+71,Flotemysost,77,Original Frankfurter grüne Soße,2
+72,Mozzarella di Giovanni,77,Original Frankfurter grüne Soße,2
+53,Perth Pasties,77,Original Frankfurter grüne Soße,2
+46,Spegesild,77,Original Frankfurter grüne Soße,2
+26,Gumbär Gummibärchen,77,Original Frankfurter grüne Soße,2
+31,Gorgonzola Telino,77,Original Frankfurter grüne Soße,2
+34,Sasquatch Ale,77,Original Frankfurter grüne Soße,2
+69,Gudbrandsdalsost,75,Rhönbräu Klosterbier,2
+73,Röd Kaviar,75,Rhönbräu Klosterbier,2
+2,Chang,76,Lakkalikööri,2
+65,Louisiana Fiery Hot Pepper Sauce,75,Rhönbräu Klosterbier,2
+66,Louisiana Hot Spiced Okra,75,Rhönbräu Klosterbier,2
+60,Camembert Pierrot,75,Rhönbräu Klosterbier,2
+13,Konbu,76,Lakkalikööri,2
+17,Alice Mutton,76,Lakkalikööri,2
+63,Vegie-spread,75,Rhönbräu Klosterbier,2
+10,Ikura,76,Lakkalikööri,2
+11,Queso Cabrales,77,Original Frankfurter grüne Soße,2
+16,Pavlova,77,Original Frankfurter grüne Soße,2
+20,Sir Rodney's Marmalade,77,Original Frankfurter grüne Soße,2
+21,Sir Rodney's Scones,77,Original Frankfurter grüne Soße,2
+71,Flotemysost,76,Lakkalikööri,2
+1,Chai,77,Original Frankfurter grüne Soße,2
+2,Chang,77,Original Frankfurter grüne Soße,2
+4,Chef Anton's Cajun Seasoning,77,Original Frankfurter grüne Soße,2
+47,Zaanse koeken,76,Lakkalikööri,2
+51,Manjimup Dried Apples,76,Lakkalikööri,2
+52,Filo Mix,76,Lakkalikööri,2
+55,Pâté chinois,76,Lakkalikööri,2
+56,Gnocchi di nonna Alice,76,Lakkalikööri,2
+68,Scottish Longbreads,76,Lakkalikööri,2
+69,Gudbrandsdalsost,76,Lakkalikööri,2
+36,Inlagd Sill,72,Mozzarella di Giovanni,2
+46,Spegesild,72,Mozzarella di Giovanni,2
+51,Manjimup Dried Apples,72,Mozzarella di Giovanni,2
+58,Escargots de Bourgogne,72,Mozzarella di Giovanni,2
+59,Raclette Courdavault,72,Mozzarella di Giovanni,2
+71,Flotemysost,72,Mozzarella di Giovanni,2
+2,Chang,73,Röd Kaviar,2
+4,Chef Anton's Cajun Seasoning,73,Röd Kaviar,2
+23,Tunnbröd,73,Röd Kaviar,2
+13,Konbu,73,Röd Kaviar,2
+9,Mishi Kobe Niku,73,Röd Kaviar,2
+46,Spegesild,73,Röd Kaviar,2
+39,Chartreuse verte,72,Mozzarella di Giovanni,2
+70,Outback Lager,71,Flotemysost,2
+2,Chang,72,Mozzarella di Giovanni,2
+19,Teatime Chocolate Biscuits,72,Mozzarella di Giovanni,2
+58,Escargots de Bourgogne,71,Flotemysost,2
+23,Tunnbröd,71,Flotemysost,2
+53,Perth Pasties,71,Flotemysost,2
+68,Scottish Longbreads,71,Flotemysost,2
+13,Konbu,72,Mozzarella di Giovanni,2
+72,Mozzarella di Giovanni,73,Röd Kaviar,2
+16,Pavlova,74,Longlife Tofu,2
+61,Sirop d'érable,74,Longlife Tofu,2
+64,Wimmers gute Semmelknödel,74,Longlife Tofu,2
+51,Manjimup Dried Apples,73,Röd Kaviar,2
+52,Filo Mix,73,Röd Kaviar,2
+54,Tourtière,73,Röd Kaviar,2
+2,Chang,74,Longlife Tofu,2
+14,Tofu,75,Rhönbräu Klosterbier,2
+20,Sir Rodney's Marmalade,75,Rhönbräu Klosterbier,2
+17,Alice Mutton,75,Rhönbräu Klosterbier,2
+18,Carnarvon Tigers,75,Rhönbräu Klosterbier,2
+23,Tunnbröd,72,Mozzarella di Giovanni,2
+7,Uncle Bob's Organic Dried Pears,75,Rhönbräu Klosterbier,2
+2,Chang,75,Rhönbräu Klosterbier,2
+4,Chef Anton's Cajun Seasoning,75,Rhönbräu Klosterbier,2
+32,Mascarpone Fabioli,75,Rhönbräu Klosterbier,2
+33,Geitost,75,Rhönbräu Klosterbier,2
+23,Tunnbröd,75,Rhönbräu Klosterbier,2
+55,Pâté chinois,75,Rhönbräu Klosterbier,2
+25,NuNuCa Nuß-Nougat-Creme,75,Rhönbräu Klosterbier,2
+26,Gumbär Gummibärchen,75,Rhönbräu Klosterbier,1
+29,Thüringer Rostbratwurst,75,Rhönbräu Klosterbier,1
+30,Nord-Ost Matjeshering,75,Rhönbräu Klosterbier,1
+51,Manjimup Dried Apples,75,Rhönbräu Klosterbier,1
+52,Filo Mix,75,Rhönbräu Klosterbier,1
+53,Perth Pasties,75,Rhönbräu Klosterbier,1
+6,Grandma's Boysenberry Spread,75,Rhönbräu Klosterbier,1
+3,Aniseed Syrup,75,Rhönbräu Klosterbier,1
+12,Queso Manchego La Pastora,75,Rhönbräu Klosterbier,1
+19,Teatime Chocolate Biscuits,75,Rhönbräu Klosterbier,1
+21,Sir Rodney's Scones,75,Rhönbräu Klosterbier,1
+15,Genen Shouyu,75,Rhönbräu Klosterbier,1
+4,Chef Anton's Cajun Seasoning,74,Longlife Tofu,1
+5,Chef Anton's Gumbo Mix,74,Longlife Tofu,1
+11,Queso Cabrales,74,Longlife Tofu,1
+12,Queso Manchego La Pastora,74,Longlife Tofu,1
+55,Pâté chinois,73,Röd Kaviar,1
+58,Escargots de Bourgogne,73,Röd Kaviar,1
+53,Perth Pasties,73,Röd Kaviar,1
+60,Camembert Pierrot,73,Röd Kaviar,1
+62,Tarte au sucre,73,Röd Kaviar,1
+63,Vegie-spread,73,Röd Kaviar,1
+64,Wimmers gute Semmelknödel,73,Röd Kaviar,1
+66,Louisiana Hot Spiced Okra,73,Röd Kaviar,1
+67,Laughing Lumberjack Lager,73,Röd Kaviar,1
+69,Gudbrandsdalsost,73,Röd Kaviar,1
+70,Outback Lager,73,Röd Kaviar,1
+65,Louisiana Fiery Hot Pepper Sauce,74,Longlife Tofu,1
+70,Outback Lager,74,Longlife Tofu,1
+1,Chai,75,Rhönbräu Klosterbier,1
+18,Carnarvon Tigers,74,Longlife Tofu,1
+1,Chai,74,Longlife Tofu,1
+29,Thüringer Rostbratwurst,74,Longlife Tofu,1
+30,Nord-Ost Matjeshering,74,Longlife Tofu,1
+33,Geitost,74,Longlife Tofu,1
+45,Rogede sild,74,Longlife Tofu,1
+47,Zaanse koeken,74,Longlife Tofu,1
+51,Manjimup Dried Apples,74,Longlife Tofu,1
+54,Tourtière,74,Longlife Tofu,1
+55,Pâté chinois,74,Longlife Tofu,1
+56,Gnocchi di nonna Alice,74,Longlife Tofu,1
+14,Tofu,72,Mozzarella di Giovanni,1
+15,Genen Shouyu,72,Mozzarella di Giovanni,1
+16,Pavlova,72,Mozzarella di Giovanni,1
+17,Alice Mutton,72,Mozzarella di Giovanni,1
+18,Carnarvon Tigers,72,Mozzarella di Giovanni,1
+61,Sirop d'érable,71,Flotemysost,1
+64,Wimmers gute Semmelknödel,71,Flotemysost,1
+22,Gustaf's Knäckebröd,72,Mozzarella di Giovanni,1
+3,Aniseed Syrup,72,Mozzarella di Giovanni,1
+4,Chef Anton's Cajun Seasoning,72,Mozzarella di Giovanni,1
+5,Chef Anton's Gumbo Mix,72,Mozzarella di Giovanni,1
+6,Grandma's Boysenberry Spread,72,Mozzarella di Giovanni,1
+40,Boston Crab Meat,72,Mozzarella di Giovanni,1
+42,Singaporean Hokkien Fried Mee,72,Mozzarella di Giovanni,1
+43,Ipoh Coffee,72,Mozzarella di Giovanni,1
+44,Gula Malacca,72,Mozzarella di Giovanni,1
+45,Rogede sild,72,Mozzarella di Giovanni,1
+28,Rössle Sauerkraut,72,Mozzarella di Giovanni,1
+29,Thüringer Rostbratwurst,72,Mozzarella di Giovanni,1
+35,Steeleye Stout,72,Mozzarella di Giovanni,1
+47,Zaanse koeken,73,Röd Kaviar,1
+50,Valkoinen suklaa,73,Röd Kaviar,1
+10,Ikura,73,Röd Kaviar,1
+12,Queso Manchego La Pastora,73,Röd Kaviar,1
+14,Tofu,73,Röd Kaviar,1
+16,Pavlova,73,Röd Kaviar,1
+20,Sir Rodney's Marmalade,73,Röd Kaviar,1
+26,Gumbär Gummibärchen,73,Röd Kaviar,1
+30,Nord-Ost Matjeshering,73,Röd Kaviar,1
+31,Gorgonzola Telino,73,Röd Kaviar,1
+32,Mascarpone Fabioli,73,Röd Kaviar,1
+39,Chartreuse verte,73,Röd Kaviar,1
+41,Jack's New England Clam Chowder,73,Röd Kaviar,1
+44,Gula Malacca,73,Röd Kaviar,1
+6,Grandma's Boysenberry Spread,73,Röd Kaviar,1
+7,Uncle Bob's Organic Dried Pears,73,Röd Kaviar,1
+8,Northwoods Cranberry Sauce,73,Röd Kaviar,1
+3,Aniseed Syrup,73,Röd Kaviar,1
+56,Gnocchi di nonna Alice,72,Mozzarella di Giovanni,1
+37,Gravad lax,72,Mozzarella di Giovanni,1
+38,Côte de Blaye,72,Mozzarella di Giovanni,1
+63,Vegie-spread,72,Mozzarella di Giovanni,1
+65,Louisiana Fiery Hot Pepper Sauce,72,Mozzarella di Giovanni,1
+68,Scottish Longbreads,72,Mozzarella di Giovanni,1
+70,Outback Lager,72,Mozzarella di Giovanni,1
+70,Outback Lager,76,Lakkalikööri,1
+57,Ravioli Angelo,76,Lakkalikööri,1
+53,Perth Pasties,76,Lakkalikööri,1
+48,Chocolade,76,Lakkalikööri,1
+49,Maxilaku,76,Lakkalikööri,1
+60,Camembert Pierrot,76,Lakkalikööri,1
+61,Sirop d'érable,76,Lakkalikööri,1
+62,Tarte au sucre,76,Lakkalikööri,1
+63,Vegie-spread,76,Lakkalikööri,1
+64,Wimmers gute Semmelknödel,76,Lakkalikööri,1
+65,Louisiana Fiery Hot Pepper Sauce,76,Lakkalikööri,1
+66,Louisiana Hot Spiced Okra,76,Lakkalikööri,1
+5,Chef Anton's Gumbo Mix,77,Original Frankfurter grüne Soße,1
+6,Grandma's Boysenberry Spread,77,Original Frankfurter grüne Soße,1
+7,Uncle Bob's Organic Dried Pears,77,Original Frankfurter grüne Soße,1
+8,Northwoods Cranberry Sauce,77,Original Frankfurter grüne Soße,1
+3,Aniseed Syrup,77,Original Frankfurter grüne Soße,1
+72,Mozzarella di Giovanni,76,Lakkalikööri,1
+75,Rhönbräu Klosterbier,76,Lakkalikööri,1
+19,Teatime Chocolate Biscuits,77,Original Frankfurter grüne Soße,1
+12,Queso Manchego La Pastora,77,Original Frankfurter grüne Soße,1
+13,Konbu,77,Original Frankfurter grüne Soße,1
+14,Tofu,77,Original Frankfurter grüne Soße,1
+33,Geitost,76,Lakkalikööri,1
+36,Inlagd Sill,76,Lakkalikööri,1
+41,Jack's New England Clam Chowder,76,Lakkalikööri,1
+43,Ipoh Coffee,76,Lakkalikööri,1
+46,Spegesild,76,Lakkalikööri,1
+18,Carnarvon Tigers,76,Lakkalikööri,1
+26,Gumbär Gummibärchen,76,Lakkalikööri,1
+28,Rössle Sauerkraut,76,Lakkalikööri,1
+30,Nord-Ost Matjeshering,76,Lakkalikööri,1
+61,Sirop d'érable,75,Rhönbräu Klosterbier,1
+62,Tarte au sucre,75,Rhönbräu Klosterbier,1
+57,Ravioli Angelo,75,Rhönbräu Klosterbier,1
+59,Raclette Courdavault,75,Rhönbräu Klosterbier,1
+67,Laughing Lumberjack Lager,75,Rhönbräu Klosterbier,1
+3,Aniseed Syrup,76,Lakkalikööri,1
+6,Grandma's Boysenberry Spread,76,Lakkalikööri,1
+7,Uncle Bob's Organic Dried Pears,76,Lakkalikööri,1
+74,Longlife Tofu,75,Rhönbräu Klosterbier,1
+1,Chai,76,Lakkalikööri,1
+72,Mozzarella di Giovanni,75,Rhönbräu Klosterbier,1
+35,Steeleye Stout,77,Original Frankfurter grüne Soße,1
+38,Côte de Blaye,77,Original Frankfurter grüne Soße,1
+32,Mascarpone Fabioli,77,Original Frankfurter grüne Soße,1
+27,Schoggi Schokolade,77,Original Frankfurter grüne Soße,1
+28,Rössle Sauerkraut,77,Original Frankfurter grüne Soße,1
+29,Thüringer Rostbratwurst,77,Original Frankfurter grüne Soße,1
+30,Nord-Ost Matjeshering,77,Original Frankfurter grüne Soße,1
+49,Maxilaku,77,Original Frankfurter grüne Soße,1
+51,Manjimup Dried Apples,77,Original Frankfurter grüne Soße,1
+52,Filo Mix,77,Original Frankfurter grüne Soße,1
+43,Ipoh Coffee,77,Original Frankfurter grüne Soße,1
+44,Gula Malacca,77,Original Frankfurter grüne Soße,1
+40,Boston Crab Meat,77,Original Frankfurter grüne Soße,1
+54,Tourtière,77,Original Frankfurter grüne Soße,1
+57,Ravioli Angelo,77,Original Frankfurter grüne Soße,1
+61,Sirop d'érable,77,Original Frankfurter grüne Soße,1
+62,Tarte au sucre,77,Original Frankfurter grüne Soße,1
+73,Röd Kaviar,77,Original Frankfurter grüne Soße,1
+66,Louisiana Hot Spiced Okra,77,Original Frankfurter grüne Soße,1
+2,Chang,66,Louisiana Hot Spiced Okra,1
+3,Aniseed Syrup,66,Louisiana Hot Spiced Okra,1
+4,Chef Anton's Cajun Seasoning,66,Louisiana Hot Spiced Okra,1
+6,Grandma's Boysenberry Spread,66,Louisiana Hot Spiced Okra,1
+7,Uncle Bob's Organic Dried Pears,66,Louisiana Hot Spiced Okra,1
+8,Northwoods Cranberry Sauce,66,Louisiana Hot Spiced Okra,1
+10,Ikura,66,Louisiana Hot Spiced Okra,1
+11,Queso Cabrales,66,Louisiana Hot Spiced Okra,1
+12,Queso Manchego La Pastora,66,Louisiana Hot Spiced Okra,1
+13,Konbu,66,Louisiana Hot Spiced Okra,1
+14,Tofu,66,Louisiana Hot Spiced Okra,1
+16,Pavlova,66,Louisiana Hot Spiced Okra,1
+20,Sir Rodney's Marmalade,66,Louisiana Hot Spiced Okra,1
+23,Tunnbröd,66,Louisiana Hot Spiced Okra,1
+30,Nord-Ost Matjeshering,66,Louisiana Hot Spiced Okra,1
+33,Geitost,65,Louisiana Fiery Hot Pepper Sauce,1
+34,Sasquatch Ale,65,Louisiana Fiery Hot Pepper Sauce,1
+44,Gula Malacca,65,Louisiana Fiery Hot Pepper Sauce,1
+45,Rogede sild,65,Louisiana Fiery Hot Pepper Sauce,1
+51,Manjimup Dried Apples,65,Louisiana Fiery Hot Pepper Sauce,1
+54,Tourtière,65,Louisiana Fiery Hot Pepper Sauce,1
+30,Nord-Ost Matjeshering,65,Louisiana Fiery Hot Pepper Sauce,1
+26,Gumbär Gummibärchen,65,Louisiana Fiery Hot Pepper Sauce,1
+28,Rössle Sauerkraut,65,Louisiana Fiery Hot Pepper Sauce,1
+17,Alice Mutton,65,Louisiana Fiery Hot Pepper Sauce,1
+19,Teatime Chocolate Biscuits,65,Louisiana Fiery Hot Pepper Sauce,1
+20,Sir Rodney's Marmalade,65,Louisiana Fiery Hot Pepper Sauce,1
+21,Sir Rodney's Scones,65,Louisiana Fiery Hot Pepper Sauce,1
+22,Gustaf's Knäckebröd,65,Louisiana Fiery Hot Pepper Sauce,1
+58,Escargots de Bourgogne,64,Wimmers gute Semmelknödel,1
+50,Valkoinen suklaa,64,Wimmers gute Semmelknödel,1
+52,Filo Mix,64,Wimmers gute Semmelknödel,1
+53,Perth Pasties,64,Wimmers gute Semmelknödel,1
+54,Tourtière,64,Wimmers gute Semmelknödel,1
+2,Chang,65,Louisiana Fiery Hot Pepper Sauce,1
+10,Ikura,65,Louisiana Fiery Hot Pepper Sauce,1
+11,Queso Cabrales,65,Louisiana Fiery Hot Pepper Sauce,1
+13,Konbu,65,Louisiana Fiery Hot Pepper Sauce,1
+22,Gustaf's Knäckebröd,64,Wimmers gute Semmelknödel,1
+14,Tofu,64,Wimmers gute Semmelknödel,1
+25,NuNuCa Nuß-Nougat-Creme,64,Wimmers gute Semmelknödel,1
+26,Gumbär Gummibärchen,64,Wimmers gute Semmelknödel,1
+28,Rössle Sauerkraut,64,Wimmers gute Semmelknödel,1
+29,Thüringer Rostbratwurst,64,Wimmers gute Semmelknödel,1
+30,Nord-Ost Matjeshering,64,Wimmers gute Semmelknödel,1
+31,Gorgonzola Telino,64,Wimmers gute Semmelknödel,1
+42,Singaporean Hokkien Fried Mee,64,Wimmers gute Semmelknödel,1
+33,Geitost,64,Wimmers gute Semmelknödel,1
+34,Sasquatch Ale,64,Wimmers gute Semmelknödel,1
+38,Côte de Blaye,64,Wimmers gute Semmelknödel,1
+39,Chartreuse verte,64,Wimmers gute Semmelknödel,1
+40,Boston Crab Meat,64,Wimmers gute Semmelknödel,1
+55,Pâté chinois,61,Sirop d'érable,1
+60,Camembert Pierrot,61,Sirop d'érable,1
+18,Carnarvon Tigers,62,Tarte au sucre,1
+21,Sir Rodney's Scones,62,Tarte au sucre,1
+23,Tunnbröd,62,Tarte au sucre,1
+24,Guaraná Fantástica,62,Tarte au sucre,1
+6,Grandma's Boysenberry Spread,62,Tarte au sucre,1
+47,Zaanse koeken,61,Sirop d'érable,1
+48,Chocolade,61,Sirop d'érable,1
+49,Maxilaku,61,Sirop d'érable,1
+51,Manjimup Dried Apples,61,Sirop d'érable,1
+52,Filo Mix,61,Sirop d'érable,1
+28,Rössle Sauerkraut,62,Tarte au sucre,1
+29,Thüringer Rostbratwurst,62,Tarte au sucre,1
+31,Gorgonzola Telino,62,Tarte au sucre,1
+32,Mascarpone Fabioli,62,Tarte au sucre,1
+34,Sasquatch Ale,62,Tarte au sucre,1
+42,Singaporean Hokkien Fried Mee,62,Tarte au sucre,1
+43,Ipoh Coffee,62,Tarte au sucre,1
+44,Gula Malacca,62,Tarte au sucre,1
+51,Manjimup Dried Apples,62,Tarte au sucre,1
+44,Gula Malacca,63,Vegie-spread,1
+46,Spegesild,63,Vegie-spread,1
+47,Zaanse koeken,63,Vegie-spread,1
+50,Valkoinen suklaa,63,Vegie-spread,1
+51,Manjimup Dried Apples,63,Vegie-spread,1
+27,Schoggi Schokolade,63,Vegie-spread,1
+23,Tunnbröd,63,Vegie-spread,1
+61,Sirop d'érable,62,Tarte au sucre,1
+2,Chang,63,Vegie-spread,1
+7,Uncle Bob's Organic Dried Pears,63,Vegie-spread,1
+12,Queso Manchego La Pastora,63,Vegie-spread,1
+16,Pavlova,63,Vegie-spread,1
+54,Tourtière,62,Tarte au sucre,1
+56,Gnocchi di nonna Alice,62,Tarte au sucre,1
+57,Ravioli Angelo,62,Tarte au sucre,1
+4,Chef Anton's Cajun Seasoning,64,Wimmers gute Semmelknödel,1
+6,Grandma's Boysenberry Spread,64,Wimmers gute Semmelknödel,1
+7,Uncle Bob's Organic Dried Pears,64,Wimmers gute Semmelknödel,1
+8,Northwoods Cranberry Sauce,64,Wimmers gute Semmelknödel,1
+10,Ikura,64,Wimmers gute Semmelknödel,1
+19,Teatime Chocolate Biscuits,64,Wimmers gute Semmelknödel,1
+20,Sir Rodney's Marmalade,64,Wimmers gute Semmelknödel,1
+39,Chartreuse verte,63,Vegie-spread,1
+11,Queso Cabrales,71,Flotemysost,1
+4,Chef Anton's Cajun Seasoning,71,Flotemysost,1
+6,Grandma's Boysenberry Spread,71,Flotemysost,1
+14,Tofu,71,Flotemysost,1
+16,Pavlova,71,Flotemysost,1
+21,Sir Rodney's Scones,71,Flotemysost,1
+22,Gustaf's Knäckebröd,71,Flotemysost,1
+58,Escargots de Bourgogne,70,Outback Lager,1
+60,Camembert Pierrot,70,Outback Lager,1
+61,Sirop d'érable,70,Outback Lager,1
+65,Louisiana Fiery Hot Pepper Sauce,70,Outback Lager,1
+68,Scottish Longbreads,70,Outback Lager,1
+35,Steeleye Stout,71,Flotemysost,1
+37,Gravad lax,71,Flotemysost,1
+27,Schoggi Schokolade,71,Flotemysost,1
+30,Nord-Ost Matjeshering,71,Flotemysost,1
+31,Gorgonzola Telino,71,Flotemysost,1
+45,Rogede sild,71,Flotemysost,1
+49,Maxilaku,71,Flotemysost,1
+52,Filo Mix,71,Flotemysost,1
+39,Chartreuse verte,71,Flotemysost,1
+40,Boston Crab Meat,71,Flotemysost,1
+41,Jack's New England Clam Chowder,71,Flotemysost,1
+42,Singaporean Hokkien Fried Mee,71,Flotemysost,1
+56,Gnocchi di nonna Alice,70,Outback Lager,1
+43,Ipoh Coffee,70,Outback Lager,1
+48,Chocolade,70,Outback Lager,1
+24,Guaraná Fantástica,70,Outback Lager,1
+26,Gumbär Gummibärchen,70,Outback Lager,1
+27,Schoggi Schokolade,70,Outback Lager,1
+29,Thüringer Rostbratwurst,70,Outback Lager,1
+30,Nord-Ost Matjeshering,70,Outback Lager,1
+31,Gorgonzola Telino,70,Outback Lager,1
+33,Geitost,70,Outback Lager,1
+34,Sasquatch Ale,70,Outback Lager,1
+35,Steeleye Stout,70,Outback Lager,1
+38,Côte de Blaye,70,Outback Lager,1
+40,Boston Crab Meat,70,Outback Lager,1
+61,Sirop d'érable,69,Gudbrandsdalsost,1
+62,Tarte au sucre,69,Gudbrandsdalsost,1
+63,Vegie-spread,69,Gudbrandsdalsost,1
+64,Wimmers gute Semmelknödel,69,Gudbrandsdalsost,1
+65,Louisiana Fiery Hot Pepper Sauce,69,Gudbrandsdalsost,1
+66,Louisiana Hot Spiced Okra,69,Gudbrandsdalsost,1
+56,Gnocchi di nonna Alice,69,Gudbrandsdalsost,1
+57,Ravioli Angelo,69,Gudbrandsdalsost,1
+9,Mishi Kobe Niku,70,Outback Lager,1
+10,Ikura,70,Outback Lager,1
+4,Chef Anton's Cajun Seasoning,70,Outback Lager,1
+16,Pavlova,69,Gudbrandsdalsost,1
+32,Mascarpone Fabioli,66,Louisiana Hot Spiced Okra,1
+33,Geitost,66,Louisiana Hot Spiced Okra,1
+39,Chartreuse verte,66,Louisiana Hot Spiced Okra,1
+41,Jack's New England Clam Chowder,66,Louisiana Hot Spiced Okra,1
+46,Spegesild,66,Louisiana Hot Spiced Okra,1
+52,Filo Mix,66,Louisiana Hot Spiced Okra,1
+54,Tourtière,66,Louisiana Hot Spiced Okra,1
+55,Pâté chinois,66,Louisiana Hot Spiced Okra,1
+60,Camembert Pierrot,66,Louisiana Hot Spiced Okra,1
+64,Wimmers gute Semmelknödel,66,Louisiana Hot Spiced Okra,1
+65,Louisiana Fiery Hot Pepper Sauce,66,Louisiana Hot Spiced Okra,1
+1,Chai,67,Laughing Lumberjack Lager,1
+2,Chang,67,Laughing Lumberjack Lager,1
+10,Ikura,67,Laughing Lumberjack Lager,1
+17,Alice Mutton,67,Laughing Lumberjack Lager,1
+23,Tunnbröd,67,Laughing Lumberjack Lager,1
+27,Schoggi Schokolade,67,Laughing Lumberjack Lager,1
+28,Rössle Sauerkraut,67,Laughing Lumberjack Lager,1
+33,Geitost,67,Laughing Lumberjack Lager,1
+35,Steeleye Stout,67,Laughing Lumberjack Lager,1
+42,Singaporean Hokkien Fried Mee,67,Laughing Lumberjack Lager,1
+43,Ipoh Coffee,67,Laughing Lumberjack Lager,1
+44,Gula Malacca,67,Laughing Lumberjack Lager,1
+45,Rogede sild,67,Laughing Lumberjack Lager,1
+46,Spegesild,67,Laughing Lumberjack Lager,1
+53,Perth Pasties,67,Laughing Lumberjack Lager,1
+60,Camembert Pierrot,67,Laughing Lumberjack Lager,1
+34,Sasquatch Ale,68,Scottish Longbreads,1
+26,Gumbär Gummibärchen,68,Scottish Longbreads,1
+13,Konbu,68,Scottish Longbreads,1
+17,Alice Mutton,68,Scottish Longbreads,1
+59,Raclette Courdavault,65,Louisiana Fiery Hot Pepper Sauce,1
+63,Vegie-spread,65,Louisiana Fiery Hot Pepper Sauce,1
+3,Aniseed Syrup,68,Scottish Longbreads,1
+44,Gula Malacca,69,Gudbrandsdalsost,1
+46,Spegesild,69,Gudbrandsdalsost,1
+47,Zaanse koeken,69,Gudbrandsdalsost,1
+50,Valkoinen suklaa,69,Gudbrandsdalsost,1
+35,Steeleye Stout,69,Gudbrandsdalsost,1
+36,Inlagd Sill,69,Gudbrandsdalsost,1
+38,Côte de Blaye,69,Gudbrandsdalsost,1
+41,Jack's New England Clam Chowder,69,Gudbrandsdalsost,1
+19,Teatime Chocolate Biscuits,69,Gudbrandsdalsost,1
+20,Sir Rodney's Marmalade,69,Gudbrandsdalsost,1
+21,Sir Rodney's Scones,69,Gudbrandsdalsost,1
+26,Gumbär Gummibärchen,69,Gudbrandsdalsost,1
+29,Thüringer Rostbratwurst,69,Gudbrandsdalsost,1
+56,Gnocchi di nonna Alice,68,Scottish Longbreads,1
+42,Singaporean Hokkien Fried Mee,68,Scottish Longbreads,1
+43,Ipoh Coffee,68,Scottish Longbreads,1
+45,Rogede sild,68,Scottish Longbreads,1
+46,Spegesild,68,Scottish Longbreads,1
+52,Filo Mix,68,Scottish Longbreads,1
+53,Perth Pasties,68,Scottish Longbreads,1
+39,Chartreuse verte,68,Scottish Longbreads,1
+40,Boston Crab Meat,68,Scottish Longbreads,1
+36,Inlagd Sill,68,Scottish Longbreads,1
+63,Vegie-spread,68,Scottish Longbreads,1
+64,Wimmers gute Semmelknödel,68,Scottish Longbreads,1
+66,Louisiana Hot Spiced Okra,68,Scottish Longbreads,1
+1,Chai,69,Gudbrandsdalsost,1
+7,Uncle Bob's Organic Dried Pears,69,Gudbrandsdalsost,1
+9,Mishi Kobe Niku,69,Gudbrandsdalsost,1
+23,Tunnbröd,56,Gnocchi di nonna Alice,1
+24,Guaraná Fantástica,56,Gnocchi di nonna Alice,1
+26,Gumbär Gummibärchen,56,Gnocchi di nonna Alice,1
+50,Valkoinen suklaa,55,Pâté chinois,1
+18,Carnarvon Tigers,56,Gnocchi di nonna Alice,1
+14,Tofu,56,Gnocchi di nonna Alice,1
+15,Genen Shouyu,56,Gnocchi di nonna Alice,1
+16,Pavlova,56,Gnocchi di nonna Alice,1
+12,Queso Manchego La Pastora,56,Gnocchi di nonna Alice,1
+44,Gula Malacca,56,Gnocchi di nonna Alice,1
+41,Jack's New England Clam Chowder,56,Gnocchi di nonna Alice,1
+39,Chartreuse verte,56,Gnocchi di nonna Alice,1
+31,Gorgonzola Telino,56,Gnocchi di nonna Alice,1
+35,Steeleye Stout,56,Gnocchi di nonna Alice,1
+37,Gravad lax,56,Gnocchi di nonna Alice,1
+20,Sir Rodney's Marmalade,56,Gnocchi di nonna Alice,1
+29,Thüringer Rostbratwurst,56,Gnocchi di nonna Alice,1
+53,Perth Pasties,55,Pâté chinois,1
+1,Chai,56,Gnocchi di nonna Alice,1
+2,Chang,56,Gnocchi di nonna Alice,1
+4,Chef Anton's Cajun Seasoning,56,Gnocchi di nonna Alice,1
+5,Chef Anton's Gumbo Mix,56,Gnocchi di nonna Alice,1
+6,Grandma's Boysenberry Spread,56,Gnocchi di nonna Alice,1
+36,Inlagd Sill,55,Pâté chinois,1
+39,Chartreuse verte,55,Pâté chinois,1
+40,Boston Crab Meat,55,Pâté chinois,1
+42,Singaporean Hokkien Fried Mee,55,Pâté chinois,1
+32,Mascarpone Fabioli,55,Pâté chinois,1
+34,Sasquatch Ale,55,Pâté chinois,1
+6,Grandma's Boysenberry Spread,55,Pâté chinois,1
+12,Queso Manchego La Pastora,55,Pâté chinois,1
+8,Northwoods Cranberry Sauce,55,Pâté chinois,1
+20,Sir Rodney's Marmalade,55,Pâté chinois,1
+14,Tofu,55,Pâté chinois,1
+16,Pavlova,55,Pâté chinois,1
+27,Schoggi Schokolade,55,Pâté chinois,1
+22,Gustaf's Knäckebröd,55,Pâté chinois,1
+23,Tunnbröd,55,Pâté chinois,1
+47,Zaanse koeken,52,Filo Mix,1
+51,Manjimup Dried Apples,52,Filo Mix,1
+1,Chai,53,Perth Pasties,1
+2,Chang,53,Perth Pasties,1
+13,Konbu,53,Perth Pasties,1
+14,Tofu,53,Perth Pasties,1
+45,Rogede sild,52,Filo Mix,1
+28,Rössle Sauerkraut,53,Perth Pasties,1
+21,Sir Rodney's Scones,53,Perth Pasties,1
+24,Guaraná Fantástica,53,Perth Pasties,1
+31,Gorgonzola Telino,53,Perth Pasties,1
+34,Sasquatch Ale,53,Perth Pasties,1
+38,Côte de Blaye,53,Perth Pasties,1
+39,Chartreuse verte,53,Perth Pasties,1
+40,Boston Crab Meat,53,Perth Pasties,1
+23,Tunnbröd,52,Filo Mix,1
+16,Pavlova,52,Filo Mix,1
+19,Teatime Chocolate Biscuits,52,Filo Mix,1
+11,Queso Cabrales,52,Filo Mix,1
+12,Queso Manchego La Pastora,52,Filo Mix,1
+13,Konbu,52,Filo Mix,1
+26,Gumbär Gummibärchen,52,Filo Mix,1
+28,Rössle Sauerkraut,52,Filo Mix,1
+31,Gorgonzola Telino,52,Filo Mix,1
+39,Chartreuse verte,52,Filo Mix,1
+17,Alice Mutton,54,Tourtière,1
+18,Carnarvon Tigers,54,Tourtière,1
+19,Teatime Chocolate Biscuits,54,Tourtière,1
+21,Sir Rodney's Scones,54,Tourtière,1
+43,Ipoh Coffee,53,Perth Pasties,1
+1,Chai,54,Tourtière,1
+2,Chang,54,Tourtière,1
+3,Aniseed Syrup,54,Tourtière,1
+4,Chef Anton's Cajun Seasoning,54,Tourtière,1
+7,Uncle Bob's Organic Dried Pears,54,Tourtière,1
+9,Mishi Kobe Niku,54,Tourtière,1
+46,Spegesild,53,Perth Pasties,1
+47,Zaanse koeken,53,Perth Pasties,1
+51,Manjimup Dried Apples,53,Perth Pasties,1
+43,Ipoh Coffee,54,Tourtière,1
+40,Boston Crab Meat,54,Tourtière,1
+41,Jack's New England Clam Chowder,54,Tourtière,1
+28,Rössle Sauerkraut,54,Tourtière,1
+29,Thüringer Rostbratwurst,54,Tourtière,1
+34,Sasquatch Ale,54,Tourtière,1
+35,Steeleye Stout,54,Tourtière,1
+37,Gravad lax,54,Tourtière,1
+38,Côte de Blaye,54,Tourtière,1
+25,NuNuCa Nuß-Nougat-Creme,54,Tourtière,1
+12,Queso Manchego La Pastora,54,Tourtière,1
+42,Singaporean Hokkien Fried Mee,60,Camembert Pierrot,1
+37,Gravad lax,60,Camembert Pierrot,1
+38,Côte de Blaye,60,Camembert Pierrot,1
+44,Gula Malacca,60,Camembert Pierrot,1
+52,Filo Mix,60,Camembert Pierrot,1
+57,Ravioli Angelo,60,Camembert Pierrot,1
+59,Raclette Courdavault,60,Camembert Pierrot,1
+10,Ikura,61,Sirop d'érable,1
+16,Pavlova,61,Sirop d'érable,1
+23,Tunnbröd,61,Sirop d'érable,1
+24,Guaraná Fantástica,61,Sirop d'érable,1
+29,Thüringer Rostbratwurst,61,Sirop d'érable,1
+32,Mascarpone Fabioli,61,Sirop d'érable,1
+34,Sasquatch Ale,61,Sirop d'érable,1
+35,Steeleye Stout,61,Sirop d'érable,1
+39,Chartreuse verte,61,Sirop d'érable,1
+9,Mishi Kobe Niku,60,Camembert Pierrot,1
+52,Filo Mix,59,Raclette Courdavault,1
+53,Perth Pasties,59,Raclette Courdavault,1
+55,Pâté chinois,59,Raclette Courdavault,1
+29,Thüringer Rostbratwurst,60,Camembert Pierrot,1
+26,Gumbär Gummibärchen,60,Camembert Pierrot,1
+35,Steeleye Stout,60,Camembert Pierrot,1
+32,Mascarpone Fabioli,60,Camembert Pierrot,1
+23,Tunnbröd,60,Camembert Pierrot,1
+21,Sir Rodney's Scones,57,Ravioli Angelo,1
+16,Pavlova,57,Ravioli Angelo,1
+53,Perth Pasties,56,Gnocchi di nonna Alice,1
+54,Tourtière,56,Gnocchi di nonna Alice,1
+2,Chang,57,Ravioli Angelo,1
+4,Chef Anton's Cajun Seasoning,57,Ravioli Angelo,1
+40,Boston Crab Meat,57,Ravioli Angelo,1
+41,Jack's New England Clam Chowder,57,Ravioli Angelo,1
+47,Zaanse koeken,57,Ravioli Angelo,1
+49,Maxilaku,57,Ravioli Angelo,1
+51,Manjimup Dried Apples,57,Ravioli Angelo,1
+53,Perth Pasties,57,Ravioli Angelo,1
+55,Pâté chinois,57,Ravioli Angelo,1
+56,Gnocchi di nonna Alice,57,Ravioli Angelo,1
+1,Chai,58,Escargots de Bourgogne,1
+11,Queso Cabrales,58,Escargots de Bourgogne,1
+14,Tofu,58,Escargots de Bourgogne,1
+17,Alice Mutton,58,Escargots de Bourgogne,1
+19,Teatime Chocolate Biscuits,58,Escargots de Bourgogne,1
+21,Sir Rodney's Scones,58,Escargots de Bourgogne,1
+23,Tunnbröd,58,Escargots de Bourgogne,1
+27,Schoggi Schokolade,58,Escargots de Bourgogne,1
+30,Nord-Ost Matjeshering,58,Escargots de Bourgogne,1
+30,Nord-Ost Matjeshering,57,Ravioli Angelo,1
+31,Gorgonzola Telino,57,Ravioli Angelo,1
+32,Mascarpone Fabioli,57,Ravioli Angelo,1
+34,Sasquatch Ale,57,Ravioli Angelo,1
+32,Mascarpone Fabioli,58,Escargots de Bourgogne,1
+33,Geitost,58,Escargots de Bourgogne,1
+39,Chartreuse verte,58,Escargots de Bourgogne,1
+42,Singaporean Hokkien Fried Mee,58,Escargots de Bourgogne,1
+47,Zaanse koeken,58,Escargots de Bourgogne,1
+51,Manjimup Dried Apples,58,Escargots de Bourgogne,1
+52,Filo Mix,58,Escargots de Bourgogne,1
+53,Perth Pasties,58,Escargots de Bourgogne,1
+55,Pâté chinois,58,Escargots de Bourgogne,1
+56,Gnocchi di nonna Alice,58,Escargots de Bourgogne,1
+1,Chai,59,Raclette Courdavault,1
+18,Carnarvon Tigers,59,Raclette Courdavault,1
+19,Teatime Chocolate Biscuits,59,Raclette Courdavault,1
+21,Sir Rodney's Scones,59,Raclette Courdavault,1
+3,Aniseed Syrup,59,Raclette Courdavault,1
+5,Chef Anton's Gumbo Mix,59,Raclette Courdavault,1
+7,Uncle Bob's Organic Dried Pears,59,Raclette Courdavault,1
+10,Ikura,59,Raclette Courdavault,1
+34,Sasquatch Ale,59,Raclette Courdavault,1
+35,Steeleye Stout,59,Raclette Courdavault,1
+28,Rössle Sauerkraut,59,Raclette Courdavault,1
+14,Tofu,59,Raclette Courdavault,1
+41,Jack's New England Clam Chowder,59,Raclette Courdavault,1
+43,Ipoh Coffee,59,Raclette Courdavault,1
+45,Rogede sild,59,Raclette Courdavault,1
+46,Spegesild,59,Raclette Courdavault,1
+47,Zaanse koeken,59,Raclette Courdavault,1
+49,Maxilaku,59,Raclette Courdavault,1
+2,Chang,33,Geitost,1
+4,Chef Anton's Cajun Seasoning,33,Geitost,1
+5,Chef Anton's Gumbo Mix,33,Geitost,1
+7,Uncle Bob's Organic Dried Pears,33,Geitost,1
+9,Mishi Kobe Niku,33,Geitost,1
+10,Ikura,33,Geitost,1
+11,Queso Cabrales,33,Geitost,1
+13,Konbu,33,Geitost,1
+13,Konbu,32,Mascarpone Fabioli,1
+14,Tofu,32,Mascarpone Fabioli,1
+20,Sir Rodney's Marmalade,32,Mascarpone Fabioli,1
+21,Sir Rodney's Scones,32,Mascarpone Fabioli,1
+23,Tunnbröd,32,Mascarpone Fabioli,1
+25,NuNuCa Nuß-Nougat-Creme,31,Gorgonzola Telino,1
+26,Gumbär Gummibärchen,31,Gorgonzola Telino,1
+27,Schoggi Schokolade,31,Gorgonzola Telino,1
+19,Teatime Chocolate Biscuits,31,Gorgonzola Telino,1
+3,Aniseed Syrup,32,Mascarpone Fabioli,1
+4,Chef Anton's Cajun Seasoning,32,Mascarpone Fabioli,1
+5,Chef Anton's Gumbo Mix,32,Mascarpone Fabioli,1
+6,Grandma's Boysenberry Spread,32,Mascarpone Fabioli,1
+7,Uncle Bob's Organic Dried Pears,32,Mascarpone Fabioli,1
+8,Northwoods Cranberry Sauce,32,Mascarpone Fabioli,1
+10,Ikura,32,Mascarpone Fabioli,1
+1,Chai,34,Sasquatch Ale,1
+10,Ikura,34,Sasquatch Ale,1
+21,Sir Rodney's Scones,34,Sasquatch Ale,1
+27,Schoggi Schokolade,33,Geitost,1
+29,Thüringer Rostbratwurst,33,Geitost,1
+25,NuNuCa Nuß-Nougat-Creme,33,Geitost,1
+19,Teatime Chocolate Biscuits,33,Geitost,1
+20,Sir Rodney's Marmalade,33,Geitost,1
+23,Tunnbröd,35,Steeleye Stout,1
+1,Chai,35,Steeleye Stout,1
+7,Uncle Bob's Organic Dried Pears,35,Steeleye Stout,1
+11,Queso Cabrales,35,Steeleye Stout,1
+12,Queso Manchego La Pastora,35,Steeleye Stout,1
+13,Konbu,35,Steeleye Stout,1
+14,Tofu,35,Steeleye Stout,1
+29,Thüringer Rostbratwurst,35,Steeleye Stout,1
+30,Nord-Ost Matjeshering,35,Steeleye Stout,1
+32,Mascarpone Fabioli,35,Steeleye Stout,1
+17,Alice Mutton,35,Steeleye Stout,1
+18,Carnarvon Tigers,35,Steeleye Stout,1
+14,Tofu,25,NuNuCa Nuß-Nougat-Creme,1
+15,Genen Shouyu,25,NuNuCa Nuß-Nougat-Creme,1
+16,Pavlova,25,NuNuCa Nuß-Nougat-Creme,1
+19,Teatime Chocolate Biscuits,25,NuNuCa Nuß-Nougat-Creme,1
+20,Sir Rodney's Marmalade,26,Gumbär Gummibärchen,1
+23,Tunnbröd,26,Gumbär Gummibärchen,1
+25,NuNuCa Nuß-Nougat-Creme,26,Gumbär Gummibärchen,1
+12,Queso Manchego La Pastora,26,Gumbär Gummibärchen,1
+13,Konbu,26,Gumbär Gummibärchen,1
+14,Tofu,26,Gumbär Gummibärchen,1
+15,Genen Shouyu,26,Gumbär Gummibärchen,1
+9,Mishi Kobe Niku,27,Schoggi Schokolade,1
+12,Queso Manchego La Pastora,27,Schoggi Schokolade,1
+16,Pavlova,27,Schoggi Schokolade,1
+21,Sir Rodney's Scones,27,Schoggi Schokolade,1
+24,Guaraná Fantástica,27,Schoggi Schokolade,1
+25,NuNuCa Nuß-Nougat-Creme,27,Schoggi Schokolade,1
+1,Chai,28,Rössle Sauerkraut,1
+6,Grandma's Boysenberry Spread,28,Rössle Sauerkraut,1
+20,Sir Rodney's Marmalade,28,Rössle Sauerkraut,1
+15,Genen Shouyu,28,Rössle Sauerkraut,1
+11,Queso Cabrales,28,Rössle Sauerkraut,1
+11,Queso Cabrales,31,Gorgonzola Telino,1
+6,Grandma's Boysenberry Spread,31,Gorgonzola Telino,1
+26,Gumbär Gummibärchen,30,Nord-Ost Matjeshering,1
+10,Ikura,30,Nord-Ost Matjeshering,1
+11,Queso Cabrales,30,Nord-Ost Matjeshering,1
+16,Pavlova,30,Nord-Ost Matjeshering,1
+17,Alice Mutton,30,Nord-Ost Matjeshering,1
+18,Carnarvon Tigers,30,Nord-Ost Matjeshering,1
+19,Teatime Chocolate Biscuits,30,Nord-Ost Matjeshering,1
+21,Sir Rodney's Scones,30,Nord-Ost Matjeshering,1
+6,Grandma's Boysenberry Spread,30,Nord-Ost Matjeshering,1
+1,Chai,30,Nord-Ost Matjeshering,1
+26,Gumbär Gummibärchen,29,Thüringer Rostbratwurst,1
+16,Pavlova,29,Thüringer Rostbratwurst,1
+9,Mishi Kobe Niku,29,Thüringer Rostbratwurst,1
+3,Aniseed Syrup,29,Thüringer Rostbratwurst,1
+24,Guaraná Fantástica,28,Rössle Sauerkraut,1
+26,Gumbär Gummibärchen,28,Rössle Sauerkraut,1
+3,Aniseed Syrup,20,Sir Rodney's Marmalade,1
+4,Chef Anton's Cajun Seasoning,20,Sir Rodney's Marmalade,1
+6,Grandma's Boysenberry Spread,20,Sir Rodney's Marmalade,1
+7,Uncle Bob's Organic Dried Pears,20,Sir Rodney's Marmalade,1
+8,Northwoods Cranberry Sauce,20,Sir Rodney's Marmalade,1
+10,Ikura,20,Sir Rodney's Marmalade,1
+11,Queso Cabrales,20,Sir Rodney's Marmalade,1
+12,Queso Manchego La Pastora,20,Sir Rodney's Marmalade,1
+13,Konbu,20,Sir Rodney's Marmalade,1
+14,Tofu,20,Sir Rodney's Marmalade,1
+16,Pavlova,20,Sir Rodney's Marmalade,1
+17,Alice Mutton,20,Sir Rodney's Marmalade,1
+4,Chef Anton's Cajun Seasoning,17,Alice Mutton,1
+18,Carnarvon Tigers,21,Sir Rodney's Scones,1
+2,Chang,21,Sir Rodney's Scones,1
+8,Northwoods Cranberry Sauce,21,Sir Rodney's Scones,1
+10,Ikura,21,Sir Rodney's Scones,1
+11,Queso Cabrales,21,Sir Rodney's Scones,1
+13,Konbu,21,Sir Rodney's Scones,1
+17,Alice Mutton,18,Carnarvon Tigers,1
+1,Chai,19,Teatime Chocolate Biscuits,1
+6,Grandma's Boysenberry Spread,19,Teatime Chocolate Biscuits,1
+8,Northwoods Cranberry Sauce,19,Teatime Chocolate Biscuits,1
+10,Ikura,19,Teatime Chocolate Biscuits,1
+11,Queso Cabrales,19,Teatime Chocolate Biscuits,1
+13,Konbu,19,Teatime Chocolate Biscuits,1
+5,Chef Anton's Gumbo Mix,18,Carnarvon Tigers,1
+7,Uncle Bob's Organic Dried Pears,18,Carnarvon Tigers,1
+11,Queso Cabrales,18,Carnarvon Tigers,1
+12,Queso Manchego La Pastora,18,Carnarvon Tigers,1
+15,Genen Shouyu,19,Teatime Chocolate Biscuits,1
+16,Pavlova,19,Teatime Chocolate Biscuits,1
+17,Alice Mutton,19,Teatime Chocolate Biscuits,1
+20,Sir Rodney's Marmalade,23,Tunnbröd,1
+1,Chai,24,Guaraná Fantástica,1
+14,Tofu,23,Tunnbröd,1
+10,Ikura,24,Guaraná Fantástica,1
+11,Queso Cabrales,24,Guaraná Fantástica,1
+17,Alice Mutton,24,Guaraná Fantástica,1
+18,Carnarvon Tigers,24,Guaraná Fantástica,1
+2,Chang,23,Tunnbröd,1
+3,Aniseed Syrup,23,Tunnbröd,1
+4,Chef Anton's Cajun Seasoning,23,Tunnbröd,1
+6,Grandma's Boysenberry Spread,23,Tunnbröd,1
+7,Uncle Bob's Organic Dried Pears,23,Tunnbröd,1
+8,Northwoods Cranberry Sauce,23,Tunnbröd,1
+10,Ikura,23,Tunnbröd,1
+11,Queso Cabrales,23,Tunnbröd,1
+2,Chang,22,Gustaf's Knäckebröd,1
+4,Chef Anton's Cajun Seasoning,22,Gustaf's Knäckebröd,1
+5,Chef Anton's Gumbo Mix,22,Gustaf's Knäckebröd,1
+7,Uncle Bob's Organic Dried Pears,22,Gustaf's Knäckebröd,1
+11,Queso Cabrales,22,Gustaf's Knäckebröd,1
+13,Konbu,22,Gustaf's Knäckebröd,1
+16,Pavlova,22,Gustaf's Knäckebröd,1
+19,Teatime Chocolate Biscuits,22,Gustaf's Knäckebröd,1
+9,Mishi Kobe Niku,13,Konbu,1
+11,Queso Cabrales,13,Konbu,1
+3,Aniseed Syrup,13,Konbu,1
+4,Chef Anton's Cajun Seasoning,13,Konbu,1
+3,Aniseed Syrup,14,Tofu,1
+4,Chef Anton's Cajun Seasoning,14,Tofu,1
+7,Uncle Bob's Organic Dried Pears,14,Tofu,1
+8,Northwoods Cranberry Sauce,14,Tofu,1
+10,Ikura,14,Tofu,1
+12,Queso Manchego La Pastora,14,Tofu,1
+8,Northwoods Cranberry Sauce,16,Pavlova,1
+9,Mishi Kobe Niku,16,Pavlova,1
+10,Ikura,16,Pavlova,1
+1,Chai,16,Pavlova,1
+3,Aniseed Syrup,16,Pavlova,1
+4,Chef Anton's Cajun Seasoning,16,Pavlova,1
+7,Uncle Bob's Organic Dried Pears,17,Alice Mutton,1
+10,Ikura,17,Alice Mutton,1
+11,Queso Cabrales,17,Alice Mutton,1
+13,Konbu,17,Alice Mutton,1
+13,Konbu,16,Pavlova,1
+14,Tofu,16,Pavlova,1
+10,Ikura,12,Queso Manchego La Pastora,1
+5,Chef Anton's Gumbo Mix,9,Mishi Kobe Niku,1
+3,Aniseed Syrup,12,Queso Manchego La Pastora,1
+4,Chef Anton's Cajun Seasoning,12,Queso Manchego La Pastora,1
+6,Grandma's Boysenberry Spread,12,Queso Manchego La Pastora,1
+7,Uncle Bob's Organic Dried Pears,10,Ikura,1
+8,Northwoods Cranberry Sauce,10,Ikura,1
+1,Chai,11,Queso Cabrales,1
+2,Chang,11,Queso Cabrales,1
+4,Chef Anton's Cajun Seasoning,11,Queso Cabrales,1
+6,Grandma's Boysenberry Spread,11,Queso Cabrales,1
+2,Chang,10,Ikura,1
+3,Aniseed Syrup,10,Ikura,1
+4,Chef Anton's Cajun Seasoning,10,Ikura,1
+4,Chef Anton's Cajun Seasoning,5,Chef Anton's Gumbo Mix,1
+2,Chang,6,Grandma's Boysenberry Spread,1
+3,Aniseed Syrup,6,Grandma's Boysenberry Spread,1
+2,Chang,4,Chef Anton's Cajun Seasoning,1
+3,Aniseed Syrup,4,Chef Anton's Cajun Seasoning,1
+1,Chai,5,Chef Anton's Gumbo Mix,1
+6,Grandma's Boysenberry Spread,7,Uncle Bob's Organic Dried Pears,1
+1,Chai,8,Northwoods Cranberry Sauce,1
+3,Aniseed Syrup,8,Northwoods Cranberry Sauce,1
+6,Grandma's Boysenberry Spread,8,Northwoods Cranberry Sauce,1
+15,Genen Shouyu,41,Jack's New England Clam Chowder,1
+19,Teatime Chocolate Biscuits,41,Jack's New England Clam Chowder,1
+37,Gravad lax,41,Jack's New England Clam Chowder,1
+38,Côte de Blaye,41,Jack's New England Clam Chowder,1
+39,Chartreuse verte,41,Jack's New England Clam Chowder,1
+40,Boston Crab Meat,41,Jack's New England Clam Chowder,1
+1,Chai,42,Singaporean Hokkien Fried Mee,1
+2,Chang,42,Singaporean Hokkien Fried Mee,1
+4,Chef Anton's Cajun Seasoning,42,Singaporean Hokkien Fried Mee,1
+6,Grandma's Boysenberry Spread,42,Singaporean Hokkien Fried Mee,1
+29,Thüringer Rostbratwurst,40,Boston Crab Meat,1
+32,Mascarpone Fabioli,40,Boston Crab Meat,1
+34,Sasquatch Ale,40,Boston Crab Meat,1
+11,Queso Cabrales,41,Jack's New England Clam Chowder,1
+8,Northwoods Cranberry Sauce,41,Jack's New England Clam Chowder,1
+38,Côte de Blaye,40,Boston Crab Meat,1
+3,Aniseed Syrup,41,Jack's New England Clam Chowder,1
+4,Chef Anton's Cajun Seasoning,41,Jack's New England Clam Chowder,1
+11,Queso Cabrales,42,Singaporean Hokkien Fried Mee,1
+31,Gorgonzola Telino,41,Jack's New England Clam Chowder,1
+24,Guaraná Fantástica,41,Jack's New England Clam Chowder,1
+24,Guaraná Fantástica,42,Singaporean Hokkien Fried Mee,1
+25,NuNuCa Nuß-Nougat-Creme,42,Singaporean Hokkien Fried Mee,1
+26,Gumbär Gummibärchen,42,Singaporean Hokkien Fried Mee,1
+29,Thüringer Rostbratwurst,42,Singaporean Hokkien Fried Mee,1
+30,Nord-Ost Matjeshering,42,Singaporean Hokkien Fried Mee,1
+41,Jack's New England Clam Chowder,42,Singaporean Hokkien Fried Mee,1
+10,Ikura,43,Ipoh Coffee,1
+11,Queso Cabrales,43,Ipoh Coffee,1
+13,Konbu,43,Ipoh Coffee,1
+6,Grandma's Boysenberry Spread,43,Ipoh Coffee,1
+19,Teatime Chocolate Biscuits,43,Ipoh Coffee,1
+25,NuNuCa Nuß-Nougat-Creme,43,Ipoh Coffee,1
+26,Gumbär Gummibärchen,43,Ipoh Coffee,1
+27,Schoggi Schokolade,43,Ipoh Coffee,1
+23,Tunnbröd,39,Chartreuse verte,1
+24,Guaraná Fantástica,39,Chartreuse verte,1
+11,Queso Cabrales,39,Chartreuse verte,1
+12,Queso Manchego La Pastora,39,Chartreuse verte,1
+14,Tofu,39,Chartreuse verte,1
+15,Genen Shouyu,39,Chartreuse verte,1
+16,Pavlova,39,Chartreuse verte,1
+18,Carnarvon Tigers,39,Chartreuse verte,1
+19,Teatime Chocolate Biscuits,39,Chartreuse verte,1
+20,Sir Rodney's Marmalade,39,Chartreuse verte,1
+7,Uncle Bob's Organic Dried Pears,39,Chartreuse verte,1
+8,Northwoods Cranberry Sauce,39,Chartreuse verte,1
+36,Inlagd Sill,38,Côte de Blaye,1
+1,Chai,39,Chartreuse verte,1
+2,Chang,39,Chartreuse verte,1
+10,Ikura,40,Boston Crab Meat,1
+11,Queso Cabrales,40,Boston Crab Meat,1
+13,Konbu,40,Boston Crab Meat,1
+14,Tofu,40,Boston Crab Meat,1
+19,Teatime Chocolate Biscuits,40,Boston Crab Meat,1
+29,Thüringer Rostbratwurst,39,Chartreuse verte,1
+31,Gorgonzola Telino,39,Chartreuse verte,1
+32,Mascarpone Fabioli,39,Chartreuse verte,1
+36,Inlagd Sill,39,Chartreuse verte,1
+38,Côte de Blaye,39,Chartreuse verte,1
+27,Schoggi Schokolade,39,Chartreuse verte,1
+2,Chang,40,Boston Crab Meat,1
+7,Uncle Bob's Organic Dried Pears,40,Boston Crab Meat,1
+28,Rössle Sauerkraut,38,Côte de Blaye,1
+29,Thüringer Rostbratwurst,38,Côte de Blaye,1
+30,Nord-Ost Matjeshering,38,Côte de Blaye,1
+31,Gorgonzola Telino,38,Côte de Blaye,1
+34,Sasquatch Ale,38,Côte de Blaye,1
+18,Carnarvon Tigers,38,Côte de Blaye,1
+30,Nord-Ost Matjeshering,36,Inlagd Sill,1
+26,Gumbär Gummibärchen,36,Inlagd Sill,1
+28,Rössle Sauerkraut,36,Inlagd Sill,1
+32,Mascarpone Fabioli,36,Inlagd Sill,1
+34,Sasquatch Ale,36,Inlagd Sill,1
+1,Chai,37,Gravad lax,1
+17,Alice Mutton,37,Gravad lax,1
+19,Teatime Chocolate Biscuits,37,Gravad lax,1
+20,Sir Rodney's Marmalade,37,Gravad lax,1
+21,Sir Rodney's Scones,37,Gravad lax,1
+23,Tunnbröd,37,Gravad lax,1
+26,Gumbär Gummibärchen,37,Gravad lax,1
+36,Inlagd Sill,37,Gravad lax,1
+3,Aniseed Syrup,38,Côte de Blaye,1
+21,Sir Rodney's Scones,36,Inlagd Sill,1
+23,Tunnbröd,36,Inlagd Sill,1
+4,Chef Anton's Cajun Seasoning,36,Inlagd Sill,1
+5,Chef Anton's Gumbo Mix,36,Inlagd Sill,1
+8,Northwoods Cranberry Sauce,36,Inlagd Sill,1
+9,Mishi Kobe Niku,36,Inlagd Sill,1
+10,Ikura,36,Inlagd Sill,1
+12,Queso Manchego La Pastora,36,Inlagd Sill,1
+43,Ipoh Coffee,46,Spegesild,1
+45,Rogede sild,46,Spegesild,1
+38,Côte de Blaye,46,Spegesild,1
+33,Geitost,46,Spegesild,1
+34,Sasquatch Ale,46,Spegesild,1
+24,Guaraná Fantástica,46,Spegesild,1
+26,Gumbär Gummibärchen,46,Spegesild,1
+28,Rössle Sauerkraut,46,Spegesild,1
+31,Gorgonzola Telino,46,Spegesild,1
+17,Alice Mutton,46,Spegesild,1
+18,Carnarvon Tigers,46,Spegesild,1
+20,Sir Rodney's Marmalade,46,Spegesild,1
+14,Tofu,46,Spegesild,1
+15,Genen Shouyu,46,Spegesild,1
+11,Queso Cabrales,46,Spegesild,1
+12,Queso Manchego La Pastora,46,Spegesild,1
+8,Northwoods Cranberry Sauce,46,Spegesild,1
+3,Aniseed Syrup,46,Spegesild,1
+4,Chef Anton's Cajun Seasoning,46,Spegesild,1
+6,Grandma's Boysenberry Spread,46,Spegesild,1
+35,Steeleye Stout,45,Rogede sild,1
+37,Gravad lax,45,Rogede sild,1
+40,Boston Crab Meat,45,Rogede sild,1
+43,Ipoh Coffee,44,Gula Malacca,1
+1,Chai,45,Rogede sild,1
+10,Ikura,45,Rogede sild,1
+14,Tofu,45,Rogede sild,1
+16,Pavlova,45,Rogede sild,1
+19,Teatime Chocolate Biscuits,45,Rogede sild,1
+23,Tunnbröd,45,Rogede sild,1
+24,Guaraná Fantástica,45,Rogede sild,1
+26,Gumbär Gummibärchen,45,Rogede sild,1
+28,Rössle Sauerkraut,45,Rogede sild,1
+29,Thüringer Rostbratwurst,45,Rogede sild,1
+40,Boston Crab Meat,44,Gula Malacca,1
+18,Carnarvon Tigers,44,Gula Malacca,1
+19,Teatime Chocolate Biscuits,44,Gula Malacca,1
+31,Gorgonzola Telino,44,Gula Malacca,1
+35,Steeleye Stout,44,Gula Malacca,1
+24,Guaraná Fantástica,44,Gula Malacca,1
+25,NuNuCa Nuß-Nougat-Creme,44,Gula Malacca,1
+26,Gumbär Gummibärchen,44,Gula Malacca,1
+27,Schoggi Schokolade,44,Gula Malacca,1
+14,Tofu,44,Gula Malacca,1
+29,Thüringer Rostbratwurst,43,Ipoh Coffee,1
+35,Steeleye Stout,43,Ipoh Coffee,1
+36,Inlagd Sill,43,Ipoh Coffee,1
+38,Côte de Blaye,43,Ipoh Coffee,1
+2,Chang,44,Gula Malacca,1
+8,Northwoods Cranberry Sauce,44,Gula Malacca,1
+10,Ikura,44,Gula Malacca,1
+11,Queso Cabrales,44,Gula Malacca,1
+13,Konbu,49,Maxilaku,1
+5,Chef Anton's Gumbo Mix,49,Maxilaku,1
+22,Gustaf's Knäckebröd,49,Maxilaku,1
+36,Inlagd Sill,49,Maxilaku,1
+38,Côte de Blaye,49,Maxilaku,1
+39,Chartreuse verte,49,Maxilaku,1
+31,Gorgonzola Telino,49,Maxilaku,1
+33,Geitost,49,Maxilaku,1
+21,Sir Rodney's Scones,47,Zaanse koeken,1
+24,Guaraná Fantástica,47,Zaanse koeken,1
+18,Carnarvon Tigers,47,Zaanse koeken,1
+10,Ikura,47,Zaanse koeken,1
+13,Konbu,47,Zaanse koeken,1
+14,Tofu,47,Zaanse koeken,1
+15,Genen Shouyu,47,Zaanse koeken,1
+4,Chef Anton's Cajun Seasoning,48,Chocolade,1
+16,Pavlova,48,Chocolade,1
+24,Guaraná Fantástica,48,Chocolade,1
+41,Jack's New England Clam Chowder,48,Chocolade,1
+42,Singaporean Hokkien Fried Mee,47,Zaanse koeken,1
+44,Gula Malacca,47,Zaanse koeken,1
+19,Teatime Chocolate Biscuits,51,Manjimup Dried Apples,1
+20,Sir Rodney's Marmalade,51,Manjimup Dried Apples,1
+13,Konbu,51,Manjimup Dried Apples,1
+7,Uncle Bob's Organic Dried Pears,51,Manjimup Dried Apples,1
+8,Northwoods Cranberry Sauce,51,Manjimup Dried Apples,1
+46,Spegesild,49,Maxilaku,1
+47,Zaanse koeken,49,Maxilaku,1
+1,Chai,50,Valkoinen suklaa,1
+2,Chang,50,Valkoinen suklaa,1
+11,Queso Cabrales,50,Valkoinen suklaa,1
+13,Konbu,50,Valkoinen suklaa,1
+21,Sir Rodney's Scones,50,Valkoinen suklaa,1
+24,Guaraná Fantástica,50,Valkoinen suklaa,1
+26,Gumbär Gummibärchen,50,Valkoinen suklaa,1
+29,Thüringer Rostbratwurst,50,Valkoinen suklaa,1
+30,Nord-Ost Matjeshering,50,Valkoinen suklaa,1
+40,Boston Crab Meat,50,Valkoinen suklaa,1
+41,Jack's New England Clam Chowder,50,Valkoinen suklaa,1
+45,Rogede sild,50,Valkoinen suklaa,1
+8,Northwoods Cranberry Sauce,52,Filo Mix,1
+32,Mascarpone Fabioli,51,Manjimup Dried Apples,1
+33,Geitost,51,Manjimup Dried Apples,1
+50,Valkoinen suklaa,51,Manjimup Dried Apples,1
+1,Chai,52,Filo Mix,1
+2,Chang,52,Filo Mix,1
+3,Aniseed Syrup,52,Filo Mix,1
+4,Chef Anton's Cajun Seasoning,52,Filo Mix,1
+6,Grandma's Boysenberry Spread,52,Filo Mix,1
+26,Gumbär Gummibärchen,51,Manjimup Dried Apples,1
+30,Nord-Ost Matjeshering,51,Manjimup Dried Apples,1
