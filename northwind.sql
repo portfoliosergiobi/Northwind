@@ -49,7 +49,7 @@ GROUP BY
     p.ProductID, p.ProductName
 ORDER BY 
     SUM(od.Quantity) DESC;
-
+### Areas geográficas con mayores ventas.
 SELECT 
     r.RegionID,
     r.RegionDescription,
@@ -96,7 +96,6 @@ GROUP BY
     c.CustomerID, c.CompanyName
 ORDER BY 
     SUM(od.Quantity * od.UnitPrice) DESC;
-
 ### Análisis de Rentabilidad
 SELECT 
     p.ProductID,
