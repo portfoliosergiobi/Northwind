@@ -16,7 +16,7 @@ JOIN
     [Order Details] od ON o.OrderID = od.OrderID
 JOIN 
     Products p ON od.ProductID = p.ProductID;
-  ---Calcular las ventas totales por producto y región.
+---Calcular las ventas totales por producto y región.
 SELECT 
     p.ProductID,
     p.ProductName,
@@ -42,7 +42,7 @@ GROUP BY
     p.ProductID, p.ProductName
 ORDER BY 
     SUM(od.Quantity) DESC;
-### Areas geográficas con mayores ventas.
+---Areas geográficas con mayores ventas.
 SELECT 
     r.RegionID,
     r.RegionDescription,
