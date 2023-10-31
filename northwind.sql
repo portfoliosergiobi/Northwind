@@ -1,4 +1,4 @@
-### Importar datos de ventas, productos y clientes
+---Importar datos de ventas, productos y clientes
 SELECT 
     o.OrderID AS 'ID de Venta',
     o.OrderDate AS 'Fecha de Venta',
@@ -16,8 +16,7 @@ JOIN
     [Order Details] od ON o.OrderID = od.OrderID
 JOIN 
     Products p ON od.ProductID = p.ProductID;
-  
----Calcular las ventas totales por producto y región.
+  ---Calcular las ventas totales por producto y región.
 SELECT 
     p.ProductID,
     p.ProductName,
@@ -30,7 +29,7 @@ GROUP BY
     p.ProductID, p.ProductName
 ORDER BY 
     SUM(od.Quantity * od.UnitPrice) DESC;
-### Identificar productos más vendidos y áreas geográficas con mayores ventas.
+---Identificar productos más vendidos y áreas geográficas con mayores ventas.
 SELECT 
     p.ProductID,
     p.ProductName,
@@ -62,7 +61,7 @@ GROUP BY
     r.RegionID, r.RegionDescription
 ORDER BY 
     SUM(od.Quantity) DESC;
-### 
+---Análisis de Tendencias Temporales
 SELECT 
     YEAR(o.OrderDate) AS 'Año',
     MONTH(o.OrderDate) AS 'Mes',
@@ -75,7 +74,7 @@ GROUP BY
     YEAR(o.OrderDate), MONTH(o.OrderDate)
 ORDER BY 
     YEAR(o.OrderDate), MONTH(o.OrderDate);
-### Segmentación de Clientes
+---Segmentación de Clientes
 SELECT 
     c.CustomerID,
     c.CompanyName,
@@ -90,7 +89,7 @@ GROUP BY
     c.CustomerID, c.CompanyName
 ORDER BY 
     SUM(od.Quantity * od.UnitPrice) DESC;
-### Análisis de Rentabilidad
+---Análisis de Rentabilidad
 SELECT 
     p.ProductID,
     p.ProductName,
@@ -105,7 +104,7 @@ GROUP BY
     p.ProductID, p.ProductName
 ORDER BY 
     SUM(od.Quantity * od.UnitPrice) DESC;
-### Análisis de Productos Relacionados
+---Análisis de Productos Relacionados
 SELECT 
     od1.ProductID AS 'Producto 1',
     p1.ProductName AS 'Nombre Producto 1',
