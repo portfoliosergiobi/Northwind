@@ -5,8 +5,8 @@ Este proyecto de análisis de ventas utiliza la base de datos Northwind para exp
 
  ![northwind](https://github.com/portfoliosergiobi/Northwind/assets/148883570/bf1ffd31-37c5-4d1e-b22f-2a11b0c1f2e5)
 
-# Resultados y Conclusiones:
-Ventas Totales por Producto y Región:
+Resultados y Conclusiones:
+# Ventas Totales por Producto y Región:
 - Se identificaron los productos más vendidos, destacando productos como Côtes de Blaye y Thüringer Rostbratwurst como líderes en ventas totales.
 - En cuanto a la region, Eastern mostró las mayores ventas totales, indicando una fuerte demanda en esa área geográfica.
 
