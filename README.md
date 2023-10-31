@@ -1,4 +1,4 @@
-                                                                                            # Northwind
+                      # Northwind
 
 # Descripcion del proyecto
 Este proyecto de análisis de ventas utiliza la base de datos Northwind para explorar patrones de compra y tendencias de ventas. Se realizan consultas SQL para calcular ventas totales por producto y región, identificar productos más vendidos, áreas geográficas con mayores ventas y segmentar clientes. También se analiza la rentabilidad de productos y se investigan relaciones entre productos en las compras. Los resultados se presentan en un formato claro y visual, proporcionando insights valiosos sobre el rendimiento de ventas y el comportamiento del cliente en la base de datos Northwind.
