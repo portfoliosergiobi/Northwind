@@ -1,25 +1,5 @@
 # Northwind
-
-SELECT * FROM information_schema.tables WHERE table_type = 'BASE TABLE';
-
-
-Aquí tienes una breve descripción de algunas de las tablas mencionadas:
-
-- Employees: Almacena información sobre los empleados de la empresa.
-- Categories: Contiene categorías de productos.
-- Customers: Almacena detalles sobre los clientes.
-- Shippers: Detalles sobre las empresas de envío.
-- Suppliers: Información sobre los proveedores.
-- Orders: Almacena información sobre las órdenes realizadas por los clientes.
-- Products: Detalles sobre los productos ofrecidos por la empresa.
-- Order Details: Contiene detalles específicos sobre los productos en cada orden.
-- CustomerCustomerDemo: Relaciona clientes con perfiles demográficos específicos.
-- CustomerDemographics: Almacena información demográfica de los clientes.
-- Region: Información sobre regiones geográficas.
-- Territories: Detalles sobre territorios de ventas.
-- EmployeeTerritories: Relaciona empleados con territorios de ventas.
 ![northwind](https://github.com/portfoliosergiobi/Northwind/assets/148883570/bf1ffd31-37c5-4d1e-b22f-2a11b0c1f2e5)
-
 
 Descripcion del proyecto
 Este proyecto de análisis de ventas utiliza la base de datos Northwind para explorar patrones de compra y tendencias de ventas. Se realizan consultas SQL para calcular ventas totales por producto y región, identificar productos más vendidos, áreas geográficas con mayores ventas y segmentar clientes. También se analiza la rentabilidad de productos y se investigan relaciones entre productos en las compras. Los resultados se presentan en un formato claro y visual, proporcionando insights valiosos sobre el rendimiento de ventas y el comportamiento del cliente en la base de datos Northwind.
