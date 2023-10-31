@@ -1,4 +1,4 @@
-# Proyecto: Análisis de Ventas (Usando Northwind Database)
+# Proyecto: Análisis de Ventas (Usando la base de datos de Northwind)
 
 # Descripción: Analizar las ventas de productos utilizando la base de datos Northwind para identificar patrones de compra y tendencias de ventas.
 
