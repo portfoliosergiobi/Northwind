@@ -11,12 +11,10 @@ Ventas Totales por Producto y Región:
 - En cuanto a la region, Eastern mostró las mayores ventas totales, indicando una fuerte demanda en esa área geográfica.
 
 # Segmentación de Clientes:
-- Se realizaron análisis detallados de segmentación de clientes, revelando que clientes como [Nombre de la Empresa Cliente] y [Nombre de la Empresa Cliente] contribuyen significativamente a las ventas totales.
-- Este análisis permite focalizar esfuerzos de marketing y ventas en clientes clave para maximizar los ingresos.
+- Se realizaron análisis detallados de segmentación de clientes, revelando que clientes como QUICK-Stop y Save-a-lot-Markets contribuyen significativamente a las ventas totales, este análisis permite focalizar esfuerzos de marketing y ventas en clientes clave para maximizar los ingresos.
 
 # Análisis de Rentabilidad:
-Se examinó la rentabilidad de los productos, mostrando que productos como [Nombre del Producto] generan altos ingresos netos debido a márgenes de beneficio saludables.
-Identificar productos rentables es crucial para la toma de decisiones empresariales y puede influir en estrategias de precios y promociones.
+- Se examinó la rentabilidad de los productos, mostrando que productos como [Nombre del Producto] generan altos ingresos netos debido a márgenes de beneficio saludables, identificar productos rentables es crucial para la toma de decisiones empresariales y puede influir en estrategias de precios y promociones.
 
 # Productos Relacionados:
 Se descubrieron relaciones interesantes entre productos, por ejemplo, [Nombre Producto 1] y [Nombre Producto 2] frecuentemente se compran juntos.
