@@ -17,7 +17,7 @@ JOIN
 JOIN 
     Products p ON od.ProductID = p.ProductID;
   
-### Realizar consultas SQL para calcular las ventas totales por producto y región.
+---Calcular las ventas totales por producto y región.
 SELECT 
     p.ProductID,
     p.ProductName,
