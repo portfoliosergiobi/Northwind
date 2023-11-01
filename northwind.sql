@@ -1,21 +1,3 @@
----Importar datos de ventas, productos y clientes
-SELECT 
-    o.OrderID AS 'ID de Venta',
-    o.OrderDate AS 'Fecha de Venta',
-    c.CustomerID AS 'ID de Cliente',
-    c.CompanyName AS 'Nombre de la Empresa Cliente',
-    p.ProductID AS 'ID de Producto',
-    p.ProductName AS 'Nombre del Producto',
-    od.Quantity AS 'Cantidad Vendida',
-    od.UnitPrice AS 'Precio Unitario'
-FROM 
-    Orders o
-JOIN 
-    Customers c ON o.CustomerID = c.CustomerID
-JOIN 
-    [Order Details] od ON o.OrderID = od.OrderID
-JOIN 
-    Products p ON od.ProductID = p.ProductID;
 ---Calcular las ventas totales por producto y región.
 SELECT 
     p.ProductID,
